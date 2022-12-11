@@ -6,6 +6,8 @@ DumbMatcher is now private, please mail c0ss4ck9989@gmail.com to get its access.
 
 Many ACFGs :)
 
+It can be used as feature-resources to recognize basic functions without symbols.
+
 - V1:
   - classified by glibc | uclibc | musl | picolibc 
   - generated from bootlin | musl.cc | deb-mirror-site | libc-database
