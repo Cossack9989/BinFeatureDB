@@ -1,0 +1,1 @@
+{"hash": "3:kmU:HU", "head": 175440, "tail": 175454, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:kmU:HU"}, "ea": {"0": [175440, 175454]}, "attr": {"0": {"insts": 4, "insts_list": ["larl", "lg", "br", "basr"], "ret": 1, "calls": 1}}}}

@@ -1,0 +1,1 @@
+{"hash": "3:ngl/n:gl/n", "head": 247688, "tail": 247696, "hcfg": {}, "acfg": {"cfg": {"0": ["1"]}, "hash": {"0": "3:ngl/n:gl/n"}, "ea": {"0": [247688, 247696]}, "attr": {"0": {"insts": 4, "insts_list": ["mov_s", "mov_s", "b", "push_s"], "flags-jumps": 1}}}}

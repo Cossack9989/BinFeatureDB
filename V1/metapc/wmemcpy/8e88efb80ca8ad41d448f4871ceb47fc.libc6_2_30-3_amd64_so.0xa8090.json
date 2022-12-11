@@ -1,0 +1,1 @@
+{"hash": "3:AnMyran:A/an", "head": 688272, "tail": 688281, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:AnMyran:A/an"}, "ea": {"0": [688272, 688281]}, "attr": {"0": {"consts": [4], "symbol": ["j_memcpy"], "calls": 1, "insts": 3, "insts_list": ["shl", "jmp", ""], "shift": 1, "flags-jumps": 1}}}}

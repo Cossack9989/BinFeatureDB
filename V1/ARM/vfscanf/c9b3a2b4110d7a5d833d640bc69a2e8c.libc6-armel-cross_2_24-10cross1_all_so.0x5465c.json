@@ -1,0 +1,1 @@
+{"hash": "3:7P:7P", "head": 345692, "tail": 345700, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:7P:7P"}, "ea": {"0": [345692, 345700]}, "attr": {"0": {"consts": [0, 0], "symbol": ["_IO_vfscanf"], "calls": 1, "insts": 3, "insts_list": ["MOV", "B", "LDR"], "arithmetic": 1, "flags-jumps": 1}}}}

@@ -1,0 +1,1 @@
+{"hash": "3:JFl2K12lnChn:JeKkin", "head": 239888, "tail": 239920, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:JFl2K12lnChn:JeKkin"}, "ea": {"0": [239888, 239920]}, "attr": {"0": {"insts": 9, "insts_list": ["stwu", "li", "li", "stw", "mr", "lwz", "addi", "b", "stwu"], "arithmetic": 1, "flags-jumps": 1}}}}

@@ -1,0 +1,1 @@
+{"hash": "3:6s/QPt:6jl", "head": 601824, "tail": 601840, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:6s/QPt:6jl"}, "ea": {"0": [601824, 601840]}, "attr": {"0": {"insts": 5, "insts_list": ["sll", "mov", "ba", "nop", "nop"], "shift": 1, "flags-jumps": 1}}}}

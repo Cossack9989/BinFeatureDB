@@ -1,0 +1,1 @@
+{"hash": "3:9YS5Luhen:yKSen", "head": 167424, "tail": 167442, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:9YS5Luhen:yKSen"}, "ea": {"0": [167424, 167442]}, "attr": {"0": {"consts": [0, 0], "symbol": [], "calls": 1, "insts": 8, "insts_list": ["PUSH", "SUB", "STR", "MOVS", "BL", "ADD", "POP.W", ""], "arithmetic": 2}}}}

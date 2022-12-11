@@ -1,0 +1,1 @@
+{"hash": "3:418j+MWlomy/kl:41O5mNl", "head": 249364, "tail": 249404, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:418j+MWlomy/kl:41O5mNl"}, "ea": {"0": [249364, 249404]}, "attr": {"0": {"consts": [0, 0], "symbol": [], "calls": 1, "insts": 10, "insts_list": ["li", "addu", "la", "rdhwr", "la", "move", "addu", "b", "lw", ""], "arithmetic": 2, "flags-jumps": 1}}}}

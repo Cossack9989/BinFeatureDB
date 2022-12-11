@@ -1,0 +1,1 @@
+{"hash": "3:cwkrwIuEkgc/:Sjc/", "head": 12, "tail": 48, "hcfg": {}, "acfg": {"cfg": {"0": ["1"]}, "hash": {"0": "3:cwkrwIuEkgc/:Sjc/"}, "ea": {"0": [12, 48]}, "attr": {"0": {"insts": 15, "insts_list": ["addi", "s32i", "s32i", "mov", "s32i", "mov", "movi", "movi", "mov", "s32i", "s32i", "s32i", "s32i", "call0", "movi"], "arithmetic": 1}}}}

@@ -1,0 +1,1 @@
+{"hash": "3:OUn:x", "head": 0, "tail": 12, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:OUn:x"}, "ea": {"0": [0, 12]}, "attr": {"0": {"consts": [10, 0, 0, 10], "symbol": ["strtol"], "calls": 1, "insts": 6, "insts_list": ["PUSH", "MOVS", "MOVS", "BL", "POP", "PUSH"], "ret": 1}}}}

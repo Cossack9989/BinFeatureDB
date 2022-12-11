@@ -1,0 +1,1 @@
+{"hash": "3:uAlDaaTEA/Wu:zGaTwu", "head": 234056, "tail": 234096, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:uAlDaaTEA/Wu:zGaTwu"}, "ea": {"0": [234056, 234096]}, "attr": {"0": {"insts": 10, "insts_list": ["save", "sethi", "call", "inc", "set", "ld", "ld", "ba", "restore", "nop"], "calls": 1, "flags-jumps": 1, "ret": 1}}}}

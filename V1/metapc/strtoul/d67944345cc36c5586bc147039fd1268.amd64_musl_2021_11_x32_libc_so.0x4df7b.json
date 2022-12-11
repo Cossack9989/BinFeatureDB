@@ -1,0 +1,1 @@
+{"hash": "3:3ae8u:3aep", "head": 319355, "tail": 319368, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:3ae8u:3aep"}, "ea": {"0": [319355, 319368]}, "attr": {"0": {"consts": [4294967295, 4294967295], "symbol": ["strtox_0"], "calls": 1, "insts": 6, "insts_list": ["push", "mov", "call", "pop", "retn", "push"], "ret": 1}}}}

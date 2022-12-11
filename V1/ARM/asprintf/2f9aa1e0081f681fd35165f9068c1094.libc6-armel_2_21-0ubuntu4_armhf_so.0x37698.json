@@ -1,0 +1,1 @@
+{"hash": "3:FE5KAAXn:nL", "head": 226968, "tail": 226998, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:FE5KAAXn:nL"}, "ea": {"0": [226968, 226998]}, "attr": {"0": {"consts": [], "symbol": ["vasprintf"], "calls": 1, "insts": 13, "insts_list": ["PUSH", "PUSH", "SUB", "ADD", "LDR.W", "MOV", "STR", "BL", "ADD", "POP.W", "ADD", "BX", ""], "arithmetic": 5, "ret": 1}}}}

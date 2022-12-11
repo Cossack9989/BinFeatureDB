@@ -1,0 +1,1 @@
+{"hash": "3:ztWnhTssdAn:cfAn", "head": 360684, "tail": 360728, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:ztWnhTssdAn:cfAn"}, "ea": {"0": [360684, 360728]}, "attr": {"0": {"consts": [0], "symbol": ["strchrnul"], "calls": 1, "insts": 12, "insts_list": ["STP", "MOV", "STR", "MOV", "BL", "LDRB", "CMP", "CSEL", "LDR", "LDP", "RET", "STP"], "arithmetic": 2}}}}

@@ -1,0 +1,1 @@
+{"hash": "3:Ri:o", "head": 514784, "tail": 514792, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:Ri:o"}, "ea": {"0": [514784, 514792]}, "attr": {"0": {"consts": [0, 0], "symbol": [], "calls": 1, "insts": 3, "insts_list": ["xor", "jmp", ""], "logic": 1, "flags-jumps": 1}}}}

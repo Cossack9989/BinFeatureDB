@@ -1,0 +1,1 @@
+{"hash": "3:42/nkTClSY:4+naY", "head": 273248, "tail": 273269, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:42/nkTClSY:4+naY"}, "ea": {"0": [273248, 273269]}, "attr": {"0": {"insts": 10, "insts_list": ["entry", "movi", "mov", "mov", "mov", "l32r", "callx8", "mov", "retw", ""], "calls": 1, "ret": 1}}}}

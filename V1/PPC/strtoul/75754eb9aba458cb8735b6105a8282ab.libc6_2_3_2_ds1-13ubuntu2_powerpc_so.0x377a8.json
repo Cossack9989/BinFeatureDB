@@ -1,0 +1,1 @@
+{"hash": "3:ZclF3t:Zclb", "head": 227240, "tail": 227256, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:ZclF3t:Zclb"}, "ea": {"0": [227240, 227256]}, "attr": {"0": {"insts": 5, "insts_list": ["stwu", "li", "addi", "b", "cmpwi"], "arithmetic": 1, "flags-jumps": 1}}}}

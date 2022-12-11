@@ -1,0 +1,1 @@
+{"hash": "3:4lx4lomzrMll:4bmzrkl", "head": 230788, "tail": 230828, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:4lx4lomzrMll:4bmzrkl"}, "ea": {"0": [230788, 230828]}, "attr": {"0": {"consts": [0, 0], "symbol": [], "calls": 1, "insts": 10, "insts_list": ["li", "addu", "la", "rdhwr", "la", "move", "addu", "b", "lw", ""], "arithmetic": 2, "flags-jumps": 1}}}}

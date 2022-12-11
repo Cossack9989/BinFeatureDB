@@ -1,0 +1,1 @@
+{"hash": "3:uLZX2n:vn", "head": 327520, "tail": 327544, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:uLZX2n:vn"}, "ea": {"0": [327520, 327544]}, "attr": {"0": {"consts": [0, 0], "symbol": [], "calls": 1, "insts": 6, "insts_list": ["li", "addu", "la", "b", "move", ""], "arithmetic": 1, "flags-jumps": 1}}}}

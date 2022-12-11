@@ -1,0 +1,1 @@
+{"hash": "3:LUdFgl:P", "head": 4, "tail": 17, "hcfg": {}, "acfg": {"cfg": {"0": ["1"]}, "hash": {"0": "3:LUdFgl:P"}, "ea": {"0": [4, 17]}, "attr": {"0": {"insts": 6, "insts_list": ["addi", "s32i", "s32i", "or", "call0", "bnez"], "arithmetic": 1, "logic": 1, "flags-jumps": 1}}}}

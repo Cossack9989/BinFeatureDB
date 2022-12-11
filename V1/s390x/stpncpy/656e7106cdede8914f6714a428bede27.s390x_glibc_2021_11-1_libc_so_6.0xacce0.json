@@ -1,0 +1,1 @@
+{"hash": "3:3gtib:Qtib", "head": 707808, "tail": 707816, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:3gtib:Qtib"}, "ea": {"0": [707808, 707816]}, "attr": {"0": {"insts": 3, "insts_list": ["larl", "br", ""], "ret": 1}}}}

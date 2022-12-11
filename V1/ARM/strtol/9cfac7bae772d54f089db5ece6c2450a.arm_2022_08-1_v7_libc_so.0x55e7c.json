@@ -1,0 +1,1 @@
+{"hash": "3:ploEWa5o1lg:ca21lg", "head": 351868, "tail": 351896, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:ploEWa5o1lg:ca21lg"}, "ea": {"0": [351868, 351896]}, "attr": {"0": {"consts": [], "symbol": ["strtox_0"], "calls": 1, "insts": 8, "insts_list": ["PUSH", "MOV", "MOV", "STRD", "BL", "ADD", "POP", "B"], "arithmetic": 3, "ret": 1, "flags-jumps": 1}}}}

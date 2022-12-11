@@ -1,0 +1,1 @@
+{"hash": "3:zk7iv4/m5422R:vIm572R", "head": 8, "tail": 42, "hcfg": {}, "acfg": {"cfg": {"0": ["1"]}, "hash": {"0": "3:zk7iv4/m5422R:vIm572R"}, "ea": {"0": [8, 42]}, "attr": {"0": {"insts": 15, "insts_list": ["addi", "s32i", "s32i", "s32i", "mov", "mov", "mov", "movi", "movi", "mov", "s32i", "s32i", "s32i", "call0", "movi"], "arithmetic": 1}}}}

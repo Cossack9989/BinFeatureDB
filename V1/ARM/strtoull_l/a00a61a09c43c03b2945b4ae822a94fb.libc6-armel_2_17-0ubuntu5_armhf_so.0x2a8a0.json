@@ -1,0 +1,1 @@
+{"hash": "3:9YS1hlYn:yG0", "head": 174240, "tail": 174256, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:9YS1hlYn:yG0"}, "ea": {"0": [174240, 174256]}, "attr": {"0": {"consts": [0, 0], "symbol": [], "calls": 1, "insts": 8, "insts_list": ["PUSH", "SUB", "STR", "MOVS", "BL", "ADD", "POP", "LDR"], "arithmetic": 2, "ret": 1}}}}

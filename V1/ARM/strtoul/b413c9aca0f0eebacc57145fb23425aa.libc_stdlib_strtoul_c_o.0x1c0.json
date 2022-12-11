@@ -1,0 +1,1 @@
+{"hash": "3:rC:+", "head": 448, "tail": 460, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:rC:+"}, "ea": {"0": [448, 460]}, "attr": {"0": {"consts": [], "symbol": ["strtoul_l"], "calls": 1, "insts": 3, "insts_list": ["ADRP", "LDR", "B"], "flags-jumps": 1}}}}

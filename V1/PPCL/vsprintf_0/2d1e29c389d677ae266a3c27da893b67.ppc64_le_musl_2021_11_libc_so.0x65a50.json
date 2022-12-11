@@ -1,0 +1,1 @@
+{"hash": "3:8GcaykOSY//e3lksrn:8Gc5pSYeVksr", "head": 416336, "tail": 416388, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:8GcaykOSY//e3lksrn:8Gc5pSYeVksr"}, "ea": {"0": [416336, 416388]}, "attr": {"0": {"insts": 14, "insts_list": ["mflr", "mr", "mr", "li", "std", "stdu", "clrldi", "bl", "nop", "addi", "ld", "mtlr", "blr", ""], "calls": 1, "arithmetic": 1, "ret": 1}}}}

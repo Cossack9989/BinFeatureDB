@@ -1,0 +1,1 @@
+{"hash": "3:Wab:Wab", "head": 160964, "tail": 160972, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:Wab:Wab"}, "ea": {"0": [160964, 160972]}, "attr": {"0": {"consts": [10, 0, 0, 10], "symbol": ["__GI_strtol"], "calls": 1, "insts": 4, "insts_list": ["MOVS", "MOVS", "B.W", "MOVS"]}}}}

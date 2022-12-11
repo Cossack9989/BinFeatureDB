@@ -1,0 +1,1 @@
+{"hash": "3:NdJcM1NI9:NdSM1NI9", "head": 394972, "tail": 395008, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:NdJcM1NI9:NdSM1NI9"}, "ea": {"0": [394972, 395008]}, "attr": {"0": {"insts": 10, "insts_list": ["stwu", "mflr", "stw", "mr", "stw", "bl", "addi", "mr", "b", "stwu"], "calls": 1, "arithmetic": 1, "flags-jumps": 1}}}}

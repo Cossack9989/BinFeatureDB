@@ -1,0 +1,1 @@
+{"hash": "3:wrZPZn:QZn", "head": 335320, "tail": 335336, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:wrZPZn:QZn"}, "ea": {"0": [335320, 335336]}, "attr": {"0": {"consts": [], "symbol": [], "calls": 1, "insts": 8, "insts_list": ["PUSH", "SUB", "MOVS", "STR", "BL", "ADD", "POP", "PUSH"], "arithmetic": 2, "ret": 1}}}}

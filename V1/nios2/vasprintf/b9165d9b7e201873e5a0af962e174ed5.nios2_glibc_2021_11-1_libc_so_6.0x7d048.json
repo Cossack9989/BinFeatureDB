@@ -1,0 +1,1 @@
+{"hash": "3:MFlifFFViXf8Ew2nlB:MqfFFIXf8EB", "head": 512072, "tail": 512116, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:MFlifFFViXf8Ew2nlB:MqfFFIXf8EB"}, "ea": {"0": [512072, 512116]}, "attr": {"0": {"insts": 12, "insts_list": ["subi", "stw", "nextpc", "movhi", "subi", "add", "ldw", "mov", "ldw", "addi", "jmp", "subi"], "arithmetic": 5}}}}

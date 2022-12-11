@@ -1,0 +1,1 @@
+{"hash": "3:Ogw:Ogw", "head": 455682, "tail": 455688, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:Ogw:Ogw"}, "ea": {"0": [455682, 455688]}, "attr": {"0": {"insts": 3, "insts_list": ["slli", "j", "li"], "shift": 1, "flags-jumps": 1}}}}

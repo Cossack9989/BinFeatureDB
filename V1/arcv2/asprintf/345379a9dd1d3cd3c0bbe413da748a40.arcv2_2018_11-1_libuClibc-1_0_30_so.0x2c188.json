@@ -1,0 +1,1 @@
+{"hash": "3:Cne5lDCtD+I:ke5lDCtiI", "head": 180616, "tail": 180654, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:Cne5lDCtD+I:ke5lDCtiI"}, "ea": {"0": [180616, 180654]}, "attr": {"0": {"insts": 14, "insts_list": ["sub_s", "push_s", "st_s", "st_s", "st", "st", "st", "st", "add_s", "bl", "ld", "add_s", "j_s", ""], "arithmetic": 3, "calls": 1, "ret": 1}}}}

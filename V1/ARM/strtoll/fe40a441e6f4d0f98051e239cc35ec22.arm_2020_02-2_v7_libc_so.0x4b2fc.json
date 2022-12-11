@@ -1,0 +1,1 @@
+{"hash": "3:U808VyqOpi1lg:k8VyqOpi1lg", "head": 307964, "tail": 307992, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:U808VyqOpi1lg:k8VyqOpi1lg"}, "ea": {"0": [307964, 307992]}, "attr": {"0": {"consts": [], "symbol": ["strtox_0"], "calls": 1, "insts": 8, "insts_list": ["PUSH", "MOV", "MOV", "STRD", "BL", "ADD", "POP", "PUSH"], "arithmetic": 3, "ret": 1}}}}

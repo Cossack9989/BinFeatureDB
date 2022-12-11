@@ -1,0 +1,1 @@
+{"hash": "3:vEkZm:cp", "head": 304164, "tail": 304180, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:vEkZm:cp"}, "ea": {"0": [304164, 304180]}, "attr": {"0": {"consts": [2147483647, 2147483647], "symbol": ["vsnprintf"], "calls": 1, "insts": 5, "insts_list": ["MOV", "MOV", "MOV", "B", "B"], "arithmetic": 3, "flags-jumps": 2}}}}

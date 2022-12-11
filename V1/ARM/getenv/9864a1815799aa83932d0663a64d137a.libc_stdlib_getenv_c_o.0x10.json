@@ -1,0 +1,1 @@
+{"hash": "3:ztEklfnNn:PnNn", "head": 16, "tail": 40, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:ztEklfnNn:PnNn"}, "ea": {"0": [16, 40]}, "attr": {"0": {"consts": [], "symbol": ["_findenv"], "calls": 1, "insts": 6, "insts_list": ["STP", "MOV", "ADD", "BL", "LDP", "RET"], "arithmetic": 2}}}}

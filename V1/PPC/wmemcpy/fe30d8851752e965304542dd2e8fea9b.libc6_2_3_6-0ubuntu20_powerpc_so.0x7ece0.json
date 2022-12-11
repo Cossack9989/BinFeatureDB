@@ -1,0 +1,1 @@
+{"hash": "3:TnDlKqoI+rdgarNn:1KW+rua5n", "head": 519392, "tail": 519428, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:TnDlKqoI+rdgarNn:1KW+rua5n"}, "ea": {"0": [519392, 519428]}, "attr": {"0": {"insts": 10, "insts_list": ["mflr", "stwu", "slwi", "stw", "bl", "lwz", "addi", "mtlr", "blr", "stwu"], "calls": 1, "arithmetic": 1, "ret": 1}}}}

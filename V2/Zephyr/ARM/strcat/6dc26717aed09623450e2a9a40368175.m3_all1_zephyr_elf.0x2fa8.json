@@ -1,0 +1,1 @@
+{"hash": "3:YZHFMSI:u+SI", "head": 12200, "tail": 12218, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:YZHFMSI:u+SI"}, "ea": {"0": [12200, 12218]}, "attr": {"0": {"consts": [], "symbol": ["strlen", "strcpy"], "calls": 2, "insts": 8, "insts_list": ["PUSH", "MOV", "BL", "ADD", "BL", "MOV", "POP", "PUSH"], "arithmetic": 3, "ret": 1}}}}

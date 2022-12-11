@@ -1,0 +1,1 @@
+{"hash": "3:PF9fc:PI", "head": 624656, "tail": 624680, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:PF9fc:PI"}, "ea": {"0": [624656, 624680]}, "attr": {"0": {"insts": 7, "insts_list": ["lui", "daddu", "daddiu", "ld", "b", "move", ""], "flags-jumps": 1}}}}

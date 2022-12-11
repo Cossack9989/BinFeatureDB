@@ -1,0 +1,1 @@
+{"hash": "3:4WHDRi:hjRi", "head": 539712, "tail": 539730, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:4WHDRi:hjRi"}, "ea": {"0": [539712, 539730]}, "attr": {"0": {"consts": [4], "symbol": [".memmove"], "calls": 1, "insts": 6, "insts_list": ["sub", "shl", "call", "add", "retn", ""], "arithmetic": 2, "shift": 1, "ret": 1}}}}

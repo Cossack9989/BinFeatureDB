@@ -1,0 +1,1 @@
+{"hash": "3:CL2zn:CLU", "head": 94976, "tail": 94992, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:CL2zn:CLU"}, "ea": {"0": [94976, 94992]}, "attr": {"0": {"consts": [], "symbol": ["strncmp"], "calls": 1, "insts": 5, "insts_list": ["ADRP", "LDR", "ADD", "BR", "ADRP"], "arithmetic": 1}}}}

@@ -1,0 +1,1 @@
+{"hash": "3:edn:ed", "head": 1372176, "tail": 1372184, "hcfg": {}, "acfg": {"cfg": {"0": ["1"]}, "hash": {"0": "3:edn:ed"}, "ea": {"0": [1372176, 1372184]}, "attr": {"0": {"insts": 3, "insts_list": ["addis", "addi", "std"], "arithmetic": 2}}}}

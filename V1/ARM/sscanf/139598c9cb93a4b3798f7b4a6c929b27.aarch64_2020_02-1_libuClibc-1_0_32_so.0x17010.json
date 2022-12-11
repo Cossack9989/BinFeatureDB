@@ -1,0 +1,1 @@
+{"hash": "3:R+pDYn:4pDY", "head": 94224, "tail": 94240, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:R+pDYn:4pDY"}, "ea": {"0": [94224, 94240]}, "attr": {"0": {"consts": [], "symbol": ["sscanf"], "calls": 1, "insts": 5, "insts_list": ["ADRP", "LDR", "ADD", "BR", "ADRP"], "arithmetic": 1}}}}

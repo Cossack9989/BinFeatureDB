@@ -1,0 +1,1 @@
+{"hash": "3:RHPHRu:BPo", "head": 382784, "tail": 382796, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:RHPHRu:BPo"}, "ea": {"0": [382784, 382796]}, "attr": {"0": {"insts": 4, "insts_list": ["li", "clrrdi", "b", ""], "flags-jumps": 1}}}}

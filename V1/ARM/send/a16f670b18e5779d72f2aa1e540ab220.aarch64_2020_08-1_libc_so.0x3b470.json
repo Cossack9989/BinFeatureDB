@@ -1,0 +1,1 @@
+{"hash": "3:g3J0/x:ya5", "head": 242800, "tail": 242812, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:g3J0/x:ya5"}, "ea": {"0": [242800, 242812]}, "attr": {"0": {"consts": [0, 0, 0, 0], "symbol": ["sendto"], "calls": 1, "insts": 4, "insts_list": ["MOV", "MOV", "B", "STP"], "arithmetic": 2, "flags-jumps": 1}}}}

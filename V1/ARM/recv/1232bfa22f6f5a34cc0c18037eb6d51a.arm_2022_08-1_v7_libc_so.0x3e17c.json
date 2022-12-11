@@ -1,0 +1,1 @@
+{"hash": "3:Xd/mlw1oByn:N/mKqy", "head": 254332, "tail": 254360, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:Xd/mlw1oByn:N/mKqy"}, "ea": {"0": [254332, 254360]}, "attr": {"0": {"consts": [0, 0, 0, 0], "symbol": ["recvfrom"], "calls": 1, "insts": 8, "insts_list": ["MOV", "PUSH", "STR", "STR", "BL", "ADD", "POP", "PUSH"], "arithmetic": 2, "ret": 1}}}}

@@ -1,0 +1,1 @@
+{"hash": "3:zHktsqlLxzY:rktsqs", "head": 211200, "tail": 211228, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:zHktsqlLxzY:rktsqs"}, "ea": {"0": [211200, 211228]}, "attr": {"0": {"consts": [10, 0, 0, 10], "symbol": ["strtoq"], "calls": 1, "insts": 8, "insts_list": ["STP", "MOV", "MOV", "MOV", "BL", "LDP", "RET", ""], "arithmetic": 3}}}}

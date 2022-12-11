@@ -1,0 +1,1 @@
+{"hash": "3:sGrHFd:Pld", "head": 208542, "tail": 208562, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:sGrHFd:Pld"}, "ea": {"0": [208542, 208562]}, "attr": {"0": {"insts": 10, "insts_list": ["addi", "li", "li", "sd", "jal", "ld", "sext.w", "addi", "ret", "li"], "arithmetic": 2, "calls": 1, "ret": 1}}}}

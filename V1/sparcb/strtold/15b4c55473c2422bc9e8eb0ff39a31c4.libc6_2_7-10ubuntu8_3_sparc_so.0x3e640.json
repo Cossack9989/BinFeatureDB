@@ -1,0 +1,1 @@
+{"hash": "3:usllP4MTER2Fln1c:3l/Lly", "head": 255552, "tail": 255592, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:usllP4MTER2Fln1c:3l/Lly"}, "ea": {"0": [255552, 255592]}, "attr": {"0": {"insts": 11, "insts_list": ["save", "sethi", "sethi", "call", "inc", "inc", "ld", "ld", "ba", "restore", "nop"], "calls": 1, "flags-jumps": 1, "ret": 1}}}}

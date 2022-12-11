@@ -1,0 +1,1 @@
+{"hash": "3:ziuXSe0DF8:zXie0a", "head": 228294, "tail": 228326, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:ziuXSe0DF8:zXie0a"}, "ea": {"0": [228294, 228326]}, "attr": {"0": {"insts": 14, "insts_list": ["addi", "mv", "mv", "mv", "mv", "mv", "mv", "li", "sd", "jal", "ld", "addi", "j", "addi"], "arithmetic": 3, "calls": 1, "flags-jumps": 1}}}}

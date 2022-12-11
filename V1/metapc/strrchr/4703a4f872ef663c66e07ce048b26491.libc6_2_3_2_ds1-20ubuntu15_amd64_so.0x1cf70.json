@@ -1,0 +1,1 @@
+{"hash": "3:LrM:XM", "head": 118640, "tail": 118646, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:LrM:XM"}, "ea": {"0": [118640, 118646]}, "attr": {"0": {"consts": [], "symbol": ["strrchr"], "calls": 1, "insts": 2, "insts_list": ["jmp", "push"], "flags-jumps": 1}}}}

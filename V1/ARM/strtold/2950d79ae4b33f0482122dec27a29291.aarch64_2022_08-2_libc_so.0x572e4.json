@@ -1,0 +1,1 @@
+{"hash": "3:zn:zn", "head": 357092, "tail": 357100, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:zn:zn"}, "ea": {"0": [357092, 357100]}, "attr": {"0": {"consts": [2, 2], "symbol": ["strtox"], "calls": 1, "insts": 3, "insts_list": ["MOV", "B", "STP"], "arithmetic": 1, "flags-jumps": 1}}}}

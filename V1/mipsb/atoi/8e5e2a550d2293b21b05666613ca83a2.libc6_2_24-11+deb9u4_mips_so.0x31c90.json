@@ -1,0 +1,1 @@
+{"hash": "3:Hkhlz/FAn:Heen", "head": 203920, "tail": 203948, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:Hkhlz/FAn:Heen"}, "ea": {"0": [203920, 203948]}, "attr": {"0": {"consts": [10, 0, 10, 0], "symbol": ["strtol"], "calls": 1, "insts": 7, "insts_list": ["li", "addu", "la", "li", "b", "move", ""], "arithmetic": 1, "flags-jumps": 1}}}}

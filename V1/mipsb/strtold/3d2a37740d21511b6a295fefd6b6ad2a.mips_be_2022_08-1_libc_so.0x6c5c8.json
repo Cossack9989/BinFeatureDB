@@ -1,0 +1,1 @@
+{"hash": "3:UFqrjj9:UFqvj9", "head": 443848, "tail": 443876, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:UFqrjj9:UFqvj9"}, "ea": {"0": [443848, 443876]}, "attr": {"0": {"consts": [2, 2], "symbol": ["strtox"], "calls": 1, "insts": 7, "insts_list": ["li", "addu", "li", "addiu", "b", "li", "li"], "arithmetic": 2, "flags-jumps": 1}}}}

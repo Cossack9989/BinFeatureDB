@@ -1,0 +1,1 @@
+{"hash": "3:XYn:XY", "head": 162936, "tail": 162944, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:XYn:XY"}, "ea": {"0": [162936, 162944]}, "attr": {"0": {"consts": [0, 10, 0, 10], "symbol": ["strtol"], "calls": 1, "insts": 4, "insts_list": ["MOVS", "MOVS", "B.W", "MOVS"]}}}}

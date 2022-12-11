@@ -1,0 +1,1 @@
+{"hash": "3:Zt3/klFFn:ZtslX", "head": 212424, "tail": 212448, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:Zt3/klFFn:ZtslX"}, "ea": {"0": [212424, 212448]}, "attr": {"0": {"insts": 7, "insts_list": ["stwu", "li", "li", "li", "addi", "b", "stwu"], "arithmetic": 1, "flags-jumps": 1}}}}

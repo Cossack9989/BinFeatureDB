@@ -1,0 +1,1 @@
+{"hash": "3:lmsjUVR:rjUX", "head": 221328, "tail": 221356, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:lmsjUVR:rjUX"}, "ea": {"0": [221328, 221356]}, "attr": {"0": {"insts": 10, "insts_list": ["st.a", "st_s", "st?", "add_s", "mov_s", "st?", "bl", "ld.ab", "j_s", "st.a"], "arithmetic": 1, "calls": 1, "ret": 1}}}}

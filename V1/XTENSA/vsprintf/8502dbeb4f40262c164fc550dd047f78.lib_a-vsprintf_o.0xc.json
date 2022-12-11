@@ -1,0 +1,1 @@
+{"hash": "3:5sDYr4g3hJZyh1:+YUuXyz", "head": 12, "tail": 56, "hcfg": {}, "acfg": {"cfg": {"0": ["1"]}, "hash": {"0": "3:5sDYr4g3hJZyh1:+YUuXyz"}, "ea": {"0": [12, 56]}, "attr": {"0": {"insts": 19, "insts_list": ["entry", "l32r", "movi", "s32i", "s32i", "mov", "mov", "mov", "mov", "mov", "mov", "movi", "s32i", "s32i", "s16i", "s16i", "l32r", "callx8", "l32i"], "calls": 1}}}}

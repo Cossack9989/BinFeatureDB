@@ -1,0 +1,1 @@
+{"hash": "3:OAB:OAB", "head": 457028, "tail": 457034, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:OAB:OAB"}, "ea": {"0": [457028, 457034]}, "attr": {"0": {"insts": 3, "insts_list": ["slli", "j", "li"], "shift": 1, "flags-jumps": 1}}}}

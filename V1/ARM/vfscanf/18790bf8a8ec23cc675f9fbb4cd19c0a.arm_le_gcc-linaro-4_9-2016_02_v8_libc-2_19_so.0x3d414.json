@@ -1,0 +1,1 @@
+{"hash": "3:O:O", "head": 250900, "tail": 250906, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:O:O"}, "ea": {"0": [250900, 250906]}, "attr": {"0": {"consts": [0, 0], "symbol": ["_IO_vfscanf_internal"], "calls": 1, "insts": 3, "insts_list": ["MOVS", "B.W", ""]}}}}

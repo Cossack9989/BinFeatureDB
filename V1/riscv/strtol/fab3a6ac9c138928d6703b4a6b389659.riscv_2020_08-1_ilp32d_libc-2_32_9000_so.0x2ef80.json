@@ -1,0 +1,1 @@
+{"hash": "3:pooommn:pooomo", "head": 192384, "tail": 192404, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:pooommn:pooomo"}, "ea": {"0": [192384, 192404]}, "attr": {"0": {"insts": 5, "insts_list": ["lw", "add", "lw", "j", "lw"], "arithmetic": 1, "flags-jumps": 1}}}}

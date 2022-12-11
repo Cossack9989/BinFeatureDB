@@ -1,0 +1,1 @@
+{"hash": "3:nCqLSmn:pLSm", "head": 123343, "tail": 123354, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:nCqLSmn:pLSm"}, "ea": {"0": [123343, 123354]}, "attr": {"0": {"consts": [0, 28], "symbol": [], "calls": 1, "insts": 5, "insts_list": ["xor", "fnstenv", "stmxcsr", "retn", "xor"], "logic": 2, "ret": 1}}}}

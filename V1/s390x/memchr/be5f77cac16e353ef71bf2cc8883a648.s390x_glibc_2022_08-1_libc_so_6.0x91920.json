@@ -1,0 +1,1 @@
+{"hash": "3:3am:qm", "head": 596256, "tail": 596264, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:3am:qm"}, "ea": {"0": [596256, 596264]}, "attr": {"0": {"insts": 3, "insts_list": ["larl", "br", "ldgr"], "ret": 1}}}}

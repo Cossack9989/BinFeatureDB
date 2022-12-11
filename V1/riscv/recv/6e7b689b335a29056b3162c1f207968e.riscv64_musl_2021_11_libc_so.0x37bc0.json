@@ -1,0 +1,1 @@
+{"hash": "3:Xkn:Xkn", "head": 228288, "tail": 228294, "hcfg": {}, "acfg": {"cfg": {"0": ["1"]}, "hash": {"0": "3:Xkn:Xkn"}, "ea": {"0": [228288, 228294]}, "attr": {"0": {"insts": 4, "insts_list": ["li", "li", "j", "addi"], "flags-jumps": 1, "arithmetic": 1}}}}

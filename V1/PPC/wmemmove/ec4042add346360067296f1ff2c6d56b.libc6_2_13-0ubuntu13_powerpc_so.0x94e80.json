@@ -1,0 +1,1 @@
+{"hash": "3:GVOpn:GIp", "head": 609920, "tail": 609928, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:GVOpn:GIp"}, "ea": {"0": [609920, 609928]}, "attr": {"0": {"insts": 3, "insts_list": ["slwi", "b", ""], "flags-jumps": 1}}}}

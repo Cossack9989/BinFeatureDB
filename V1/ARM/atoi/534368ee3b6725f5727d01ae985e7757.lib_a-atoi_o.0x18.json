@@ -1,0 +1,1 @@
+{"hash": "3:Rel/xllalYNef:RKxllugu", "head": 24, "tail": 48, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:Rel/xllalYNef:RKxllugu"}, "ea": {"0": [24, 48]}, "attr": {"0": {"consts": [10, 0, 0, 10], "symbol": ["_strtol_r"], "calls": 1, "insts": 6, "insts_list": ["PUSH", "MOV", "MOV", "BL", "POP", "BX"], "arithmetic": 2, "ret": 2}}}}

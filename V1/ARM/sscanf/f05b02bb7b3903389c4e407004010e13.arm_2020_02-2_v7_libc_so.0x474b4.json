@@ -1,0 +1,1 @@
+{"hash": "3:OlxPapTkGt1qqt:OiTxou", "head": 292020, "tail": 292060, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:OlxPapTkGt1qqt:OiTxou"}, "ea": {"0": [292020, 292060]}, "attr": {"0": {"consts": [], "symbol": ["vsscanf"], "calls": 1, "insts": 11, "insts_list": ["PUSH", "PUSH", "ADD", "LDR", "STR", "BL", "ADD", "POP", "ADD", "BX", "PUSH"], "arithmetic": 3, "ret": 2}}}}

@@ -1,0 +1,1 @@
+{"hash": "3:ploEtL1lg:jL1lg", "head": 308020, "tail": 308048, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:ploEtL1lg:jL1lg"}, "ea": {"0": [308020, 308048]}, "attr": {"0": {"consts": [], "symbol": ["strtox_0"], "calls": 1, "insts": 8, "insts_list": ["PUSH", "MOV", "MOV", "STRD", "BL", "ADD", "POP", "B"], "arithmetic": 3, "ret": 1, "flags-jumps": 1}}}}

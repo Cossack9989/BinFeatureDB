@@ -1,0 +1,1 @@
+{"hash": "3:eCrNmAS4QZti:LZmASdti", "head": 52, "tail": 76, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:eCrNmAS4QZti:LZmASdti"}, "ea": {"0": [52, 76]}, "attr": {"0": {"consts": [], "symbol": ["_vsprintf_r"], "calls": 1, "insts": 12, "insts_list": ["PUSH", "MOVS", "MOVS", "LDR", "LDR", "MOVS", "MOVS", "BL", "POP", "POP", "BX", ""], "ret": 3}}}}

@@ -1,0 +1,1 @@
+{"hash": "3:ztWnhVnyvLczNn:cVnlzNn", "head": 360928, "tail": 360964, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:ztWnhVnyvLczNn:cVnlzNn"}, "ea": {"0": [360928, 360964]}, "attr": {"0": {"consts": [], "symbol": ["stpcpy"], "calls": 1, "insts": 10, "insts_list": ["STP", "MOV", "STR", "MOV", "BL", "MOV", "LDR", "LDP", "RET", "STP"], "arithmetic": 3}}}}

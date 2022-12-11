@@ -1,0 +1,1 @@
+{"hash": "3:AnMiHa:ADa", "head": 581344, "tail": 581353, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:AnMiHa:ADa"}, "ea": {"0": [581344, 581353]}, "attr": {"0": {"consts": [4], "symbol": ["memcpy"], "calls": 1, "insts": 3, "insts_list": ["shl", "jmp", ""], "shift": 1, "flags-jumps": 1}}}}

@@ -1,0 +1,1 @@
+{"hash": "3:HtAdz:Ns", "head": 93984, "tail": 94000, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:HtAdz:Ns"}, "ea": {"0": [93984, 94000]}, "attr": {"0": {"consts": [], "symbol": ["getenv"], "calls": 1, "insts": 5, "insts_list": ["ADRP", "LDR", "ADD", "BR", "ADRP"], "arithmetic": 1}}}}

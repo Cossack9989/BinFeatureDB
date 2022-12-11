@@ -1,0 +1,1 @@
+{"hash": "3:I7yWu:I7yWu", "head": 52, "tail": 70, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:I7yWu:I7yWu"}, "ea": {"0": [52, 70]}, "attr": {"0": {"consts": [], "symbol": ["_vsprintf_r"], "calls": 1, "insts": 9, "insts_list": ["PUSH", "LDR", "MOV", "MOV", "MOV", "LDR", "POP", "B.W", ""], "arithmetic": 3, "ret": 1}}}}

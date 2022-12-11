@@ -1,0 +1,1 @@
+{"hash": "3:4+jozrO7a1On:gx1O", "head": 320632, "tail": 320672, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:4+jozrO7a1On:gx1O"}, "ea": {"0": [320632, 320672]}, "attr": {"0": {"consts": [], "symbol": ["strlen", "strcpy"], "calls": 2, "insts": 11, "insts_list": ["PUSH", "MOV", "STR", "BL", "LDR", "ADD", "BL", "MOV", "ADD", "POP", "PUSH"], "arithmetic": 4, "ret": 1}}}}

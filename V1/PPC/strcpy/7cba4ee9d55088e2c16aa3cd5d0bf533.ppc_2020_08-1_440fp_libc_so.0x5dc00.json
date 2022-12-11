@@ -1,0 +1,1 @@
+{"hash": "3:NdoQGK5:NdoQGK5", "head": 384000, "tail": 384036, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:NdoQGK5:NdoQGK5"}, "ea": {"0": [384000, 384036]}, "attr": {"0": {"insts": 10, "insts_list": ["stwu", "mflr", "stw", "mr", "stw", "bl", "addi", "mr", "b", "stwu"], "calls": 1, "arithmetic": 1, "flags-jumps": 1}}}}

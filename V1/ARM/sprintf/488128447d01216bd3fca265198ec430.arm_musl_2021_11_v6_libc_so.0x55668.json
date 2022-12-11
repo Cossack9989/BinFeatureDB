@@ -1,0 +1,1 @@
+{"hash": "3:Olxb49BFkqpqt:OsFPu", "head": 349800, "tail": 349840, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:Olxb49BFkqpqt:OsFPu"}, "ea": {"0": [349800, 349840]}, "attr": {"0": {"consts": [], "symbol": ["vsprintf"], "calls": 1, "insts": 11, "insts_list": ["PUSH", "PUSH", "LDR", "ADD", "STR", "BL", "ADD", "POP", "ADD", "BX", "PUSH"], "arithmetic": 3, "ret": 2}}}}

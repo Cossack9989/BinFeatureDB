@@ -1,0 +1,1 @@
+{"hash": "3:VSh9V1/jYe8Rh:4h9jsh", "head": 221392, "tail": 221422, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:VSh9V1/jYe8Rh:4h9jsh"}, "ea": {"0": [221392, 221422]}, "attr": {"0": {"insts": 10, "insts_list": ["st.a", "st?", "st?", "mov_s", "add_s", "st?", "bl", "ld.ab", "j_s", ""], "arithmetic": 1, "calls": 1, "ret": 1}}}}

@@ -1,0 +1,1 @@
+{"hash": "3:92Wf5n:UY5n", "head": 542832, "tail": 542840, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:92Wf5n:UY5n"}, "ea": {"0": [542832, 542840]}, "attr": {"0": {"consts": [4], "symbol": [], "calls": 1, "insts": 3, "insts_list": ["LSL", "B", "MOV"], "shift": 1, "flags-jumps": 1, "arithmetic": 1}}}}

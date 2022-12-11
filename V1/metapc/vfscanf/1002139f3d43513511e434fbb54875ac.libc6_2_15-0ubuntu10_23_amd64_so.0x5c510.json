@@ -1,0 +1,1 @@
+{"hash": "3:rLR:rV", "head": 378128, "tail": 378135, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:rLR:rV"}, "ea": {"0": [378128, 378135]}, "attr": {"0": {"consts": [0, 0], "symbol": ["_IO_vfscanf"], "calls": 1, "insts": 3, "insts_list": ["xor", "jmp", "lea"], "logic": 1, "flags-jumps": 1}}}}

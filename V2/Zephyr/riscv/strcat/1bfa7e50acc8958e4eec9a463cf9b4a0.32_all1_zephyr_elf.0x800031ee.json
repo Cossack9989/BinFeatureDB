@@ -1,0 +1,1 @@
+{"hash": "3:DJCw0aXl4l:dnle", "head": 2147496430, "tail": 2147496458, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:DJCw0aXl4l:dnle"}, "ea": {"0": [2147496430, 2147496458]}, "attr": {"0": {"insts": 15, "insts_list": ["addi", "sw", "sw", "sw", "mv", "jal", "lw", "add", "jal", "lw", "mv", "lw", "addi", "ret", "addi"], "arithmetic": 4, "calls": 2, "ret": 1}}}}

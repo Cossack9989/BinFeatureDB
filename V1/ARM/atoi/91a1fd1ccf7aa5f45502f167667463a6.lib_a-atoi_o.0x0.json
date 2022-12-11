@@ -1,0 +1,1 @@
+{"hash": "3:W5:W5", "head": 0, "tail": 8, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:W5:W5"}, "ea": {"0": [0, 8]}, "attr": {"0": {"consts": [10, 0, 0, 10], "symbol": ["strtol"], "calls": 1, "insts": 4, "insts_list": ["MOVS", "MOVS", "B.W", "MOVS"]}}}}

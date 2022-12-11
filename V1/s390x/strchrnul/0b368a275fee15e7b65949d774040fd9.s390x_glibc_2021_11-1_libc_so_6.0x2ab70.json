@@ -1,0 +1,1 @@
+{"hash": "3:GQxiU:GUiU", "head": 174960, "tail": 174974, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:GQxiU:GUiU"}, "ea": {"0": [174960, 174974]}, "attr": {"0": {"insts": 4, "insts_list": ["larl", "lg", "br", "basr"], "ret": 1, "calls": 1}}}}

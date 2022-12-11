@@ -1,0 +1,1 @@
+{"hash": "3:KGx:K6", "head": 95200, "tail": 95216, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:KGx:K6"}, "ea": {"0": [95200, 95216]}, "attr": {"0": {"consts": [], "symbol": ["sscanf"], "calls": 1, "insts": 5, "insts_list": ["ADRP", "LDR", "ADD", "BR", "ADRP"], "arithmetic": 1}}}}

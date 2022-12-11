@@ -1,0 +1,1 @@
+{"hash": "3:Mn:Mn", "head": 291576, "tail": 291588, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:Mn:Mn"}, "ea": {"0": [291576, 291588]}, "attr": {"0": {"insts": 4, "insts_list": ["li", "li", "j", "addi"], "flags-jumps": 1, "arithmetic": 1}}}}

@@ -1,0 +1,1 @@
+{"hash": "3:Zdm2d1l1gn:Zd0n", "head": 374536, "tail": 374560, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:Zdm2d1l1gn:Zd0n"}, "ea": {"0": [374536, 374560]}, "attr": {"0": {"consts": [0, 0], "symbol": ["_IO_vfscanf"], "calls": 1, "insts": 6, "insts_list": ["li", "addu", "la", "b", "move", "li"], "arithmetic": 1, "flags-jumps": 1}}}}

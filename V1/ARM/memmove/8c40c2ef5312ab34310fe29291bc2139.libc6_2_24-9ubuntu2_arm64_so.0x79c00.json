@@ -1,0 +1,1 @@
+{"hash": "3:iuOkbuur:imuK", "head": 498688, "tail": 498704, "hcfg": {}, "acfg": {"cfg": {"0": ["7"]}, "hash": {"0": "3:iuOkbuur:imuK"}, "ea": {"0": [498688, 498704]}, "attr": {"0": {"consts": [96], "symbol": [], "calls": 0, "insts": 5, "insts_list": ["SUB", "CMP", "CCMP", "B.CC", "PRFM"], "arithmetic": 1}}}}

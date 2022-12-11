@@ -1,0 +1,1 @@
+{"hash": "3:bZVAndllHWln:wnnkl", "head": 642000, "tail": 642016, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:bZVAndllHWln:wnnkl"}, "ea": {"0": [642000, 642016]}, "attr": {"0": {"insts": 5, "insts_list": ["addis", "addi", "li", "b", ""], "arithmetic": 2, "flags-jumps": 1}}}}

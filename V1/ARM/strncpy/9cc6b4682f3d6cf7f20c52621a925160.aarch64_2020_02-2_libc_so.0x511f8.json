@@ -1,0 +1,1 @@
+{"hash": "3:kMWmlPGsNrz:FWSbNrz", "head": 332280, "tail": 332304, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:kMWmlPGsNrz:FWSbNrz"}, "ea": {"0": [332280, 332304]}, "attr": {"0": {"consts": [], "symbol": ["stpncpy"], "calls": 1, "insts": 7, "insts_list": ["STP", "MOV", "BL", "MOV", "LDP", "RET", "STP"], "arithmetic": 2}}}}

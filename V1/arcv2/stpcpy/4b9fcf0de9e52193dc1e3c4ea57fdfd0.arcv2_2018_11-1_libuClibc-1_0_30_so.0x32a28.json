@@ -1,0 +1,1 @@
+{"hash": "3:jDjf8:jDjf8", "head": 207400, "tail": 207416, "hcfg": {}, "acfg": {"cfg": {"0": ["0"]}, "hash": {"0": "3:jDjf8:jDjf8"}, "ea": {"0": [207400, 207416]}, "attr": {"0": {"insts": 9, "insts_list": ["ldb_s", "add_s", "stb_s", "add_s", "tst_s", "jeq_s", "mov_s", "b_s", "mov_s"], "arithmetic": 2, "flags-jumps": 1}}}}

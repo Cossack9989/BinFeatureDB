@@ -1,0 +1,1 @@
+{"hash": "3:WQd:WQd", "head": 134359432, "tail": 134359440, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:WQd:WQd"}, "ea": {"0": [134359432, 134359440]}, "attr": {"0": {"consts": [10, 0, 0, 10], "symbol": ["strtol"], "calls": 1, "insts": 4, "insts_list": ["MOVS", "MOVS", "B.W", "LDRH"]}}}}

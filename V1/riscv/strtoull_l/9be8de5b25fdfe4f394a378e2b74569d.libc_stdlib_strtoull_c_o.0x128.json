@@ -1,0 +1,1 @@
+{"hash": "3:vlRl:vlD", "head": 296, "tail": 304, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:vlRl:vlD"}, "ea": {"0": [296, 304]}, "attr": {"0": {"insts": 3, "insts_list": ["auipc", "jr", "auipc"], "flags-jumps": 1}}}}

@@ -1,0 +1,1 @@
+{"hash": "3:hynMh:wO", "head": 286292, "tail": 286304, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:hynMh:wO"}, "ea": {"0": [286292, 286304]}, "attr": {"0": {"insts": 6, "insts_list": ["mov_s", "mov_s", "mov_s", "mov_s", "b", "push_s"], "flags-jumps": 1}}}}

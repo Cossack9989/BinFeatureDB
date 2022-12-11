@@ -1,0 +1,1 @@
+{"hash": "3:Z9lll2eqPn:ZeeK", "head": 247472, "tail": 247504, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:Z9lll2eqPn:ZeeK"}, "ea": {"0": [247472, 247504]}, "attr": {"0": {"insts": 9, "insts_list": ["stwu", "li", "li", "stw", "mr", "lwz", "addi", "b", "stwu"], "arithmetic": 1, "flags-jumps": 1}}}}

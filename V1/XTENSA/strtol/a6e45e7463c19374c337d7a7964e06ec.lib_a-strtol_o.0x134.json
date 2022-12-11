@@ -1,0 +1,1 @@
+{"hash": "3:4aLhn:4an", "head": 308, "tail": 326, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:4aLhn:4an"}, "ea": {"0": [308, 326]}, "attr": {"0": {"insts": 9, "insts_list": ["entry", "mov", "mov", "mov", "mov", "call8", "mov", "retw", ""], "calls": 1, "ret": 1}}}}

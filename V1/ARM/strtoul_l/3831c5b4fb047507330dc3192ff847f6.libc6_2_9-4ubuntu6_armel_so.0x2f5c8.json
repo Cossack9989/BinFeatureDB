@@ -1,0 +1,1 @@
+{"hash": "3:TIhPoz3vslg:E5oIlg", "head": 193992, "tail": 194020, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:TIhPoz3vslg:E5oIlg"}, "ea": {"0": [193992, 194020]}, "attr": {"0": {"consts": [], "symbol": [], "calls": 1, "insts": 8, "insts_list": ["PUSH", "SUB", "STR", "MOV", "BL", "ADD", "POP", "PUSH"], "arithmetic": 3, "ret": 1}}}}

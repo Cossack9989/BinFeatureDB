@@ -1,0 +1,1 @@
+{"hash": "3:+ONGun:+6Gu", "head": 157508, "tail": 157524, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:+ONGun:+6Gu"}, "ea": {"0": [157508, 157524]}, "attr": {"0": {"consts": [0], "symbol": [], "calls": 0, "insts": 5, "insts_list": ["VMRS", "STR", "MOV", "BX", "CMN"], "arithmetic": 1, "ret": 1}}}}

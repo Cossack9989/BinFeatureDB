@@ -1,0 +1,1 @@
+{"hash": "3:DgW+Nm/XNef:DX4m/du", "head": 0, "tail": 36, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:DgW+Nm/XNef:DX4m/du"}, "ea": {"0": [0, 36]}, "attr": {"0": {"consts": [], "symbol": ["_strtoll_r"], "calls": 1, "insts": 10, "insts_list": ["PUSH", "LDR", "MOV", "MOV", "MOV", "LDR", "BL", "POP", "BX", ""], "arithmetic": 3, "ret": 2}}}}

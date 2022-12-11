@@ -1,0 +1,1 @@
+{"hash": "3:OlxPapTkWKqt:OiTmu", "head": 205292, "tail": 205332, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:OlxPapTkWKqt:OiTmu"}, "ea": {"0": [205292, 205332]}, "attr": {"0": {"consts": [], "symbol": ["vsyslog"], "calls": 1, "insts": 11, "insts_list": ["PUSH", "PUSH", "ADD", "LDR", "STR", "BL", "ADD", "POP", "ADD", "BX", "PUSH"], "arithmetic": 3, "ret": 2}}}}

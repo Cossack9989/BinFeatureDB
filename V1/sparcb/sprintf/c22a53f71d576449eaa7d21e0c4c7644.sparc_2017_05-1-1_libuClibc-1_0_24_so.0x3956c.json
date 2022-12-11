@@ -1,0 +1,1 @@
+{"hash": "3:uVqtloCFRCtuIN3:kqtloCTCtu4", "head": 234860, "tail": 234912, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:uVqtloCFRCtuIN3:kqtloCTCtu4"}, "ea": {"0": [234860, 234912]}, "attr": {"0": {"insts": 14, "insts_list": ["save", "mov", "add", "st", "st", "st", "st", "st", "mov", "call", "mov", "ret", "restore", "save"], "arithmetic": 1, "calls": 1, "ret": 2}}}}

@@ -1,0 +1,1 @@
+{"hash": "3:0dkELByn:m1Ny", "head": 325136, "tail": 325160, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:0dkELByn:m1Ny"}, "ea": {"0": [325136, 325160]}, "attr": {"0": {"consts": [], "symbol": ["_stdlib_strto_l_l"], "calls": 1, "insts": 7, "insts_list": ["PUSH", "STR", "MOV", "BL", "ADD", "POP", "PUSH"], "arithmetic": 2, "ret": 1}}}}

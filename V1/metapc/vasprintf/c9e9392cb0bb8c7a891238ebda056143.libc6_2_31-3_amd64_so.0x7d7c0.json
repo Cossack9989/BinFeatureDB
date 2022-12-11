@@ -1,0 +1,1 @@
+{"hash": "3:Sa:Sa", "head": 513984, "tail": 513991, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:Sa:Sa"}, "ea": {"0": [513984, 513991]}, "attr": {"0": {"consts": [0, 0], "symbol": [], "calls": 1, "insts": 3, "insts_list": ["xor", "jmp", ""], "logic": 1, "flags-jumps": 1}}}}

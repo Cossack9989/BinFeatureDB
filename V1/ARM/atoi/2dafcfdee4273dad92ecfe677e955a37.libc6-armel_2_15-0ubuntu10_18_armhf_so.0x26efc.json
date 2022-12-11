@@ -1,0 +1,1 @@
+{"hash": "3:dbn:dbn", "head": 159484, "tail": 159492, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:dbn:dbn"}, "ea": {"0": [159484, 159492]}, "attr": {"0": {"consts": [0, 10, 0, 10], "symbol": ["strtol"], "calls": 1, "insts": 4, "insts_list": ["MOVS", "MOVS", "B.W", "MOVS"]}}}}

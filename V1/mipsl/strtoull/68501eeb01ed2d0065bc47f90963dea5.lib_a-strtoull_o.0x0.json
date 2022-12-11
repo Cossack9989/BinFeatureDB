@@ -1,0 +1,1 @@
+{"hash": "3:4llAqltl8qXl:4/AeX8m", "head": 0, "tail": 24, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:4llAqltl8qXl:4/AeX8m"}, "ea": {"0": [0, 24]}, "attr": {"0": {"consts": [], "symbol": ["_strtoull_r"], "calls": 1, "insts": 6, "insts_list": ["move", "move", "move", "lw", "j", "nop"], "flags-jumps": 1}}}}

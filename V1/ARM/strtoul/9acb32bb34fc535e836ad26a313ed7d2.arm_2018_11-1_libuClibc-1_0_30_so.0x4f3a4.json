@@ -1,0 +1,1 @@
+{"hash": "3:WE:N", "head": 324516, "tail": 324524, "hcfg": {}, "acfg": {"cfg": {"0": ["1"]}, "hash": {"0": "3:WE:N"}, "ea": {"0": [324516, 324524]}, "attr": {"0": {"consts": [0], "symbol": [], "calls": 0, "insts": 3, "insts_list": ["MOV", "B", "PUSH"], "arithmetic": 1, "flags-jumps": 1}}}}

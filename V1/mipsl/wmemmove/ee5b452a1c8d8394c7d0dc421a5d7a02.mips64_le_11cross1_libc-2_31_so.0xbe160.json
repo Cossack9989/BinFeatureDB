@@ -1,0 +1,1 @@
+{"hash": "3:X2aljB6Fjln:X2a2FZ", "head": 778592, "tail": 778616, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:X2aljB6Fjln:X2a2FZ"}, "ea": {"0": [778592, 778616]}, "attr": {"0": {"insts": 7, "insts_list": ["lui", "daddu", "daddiu", "ld", "b", "dsll", ""], "flags-jumps": 1}}}}

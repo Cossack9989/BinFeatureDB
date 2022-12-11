@@ -1,0 +1,1 @@
+{"hash": "3:lKZT:lK5", "head": 560704, "tail": 560720, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:lKZT:lK5"}, "ea": {"0": [560704, 560720]}, "attr": {"0": {"insts": 5, "insts_list": ["stwu", "slwi", "addi", "b", "cmplwi"], "arithmetic": 1, "flags-jumps": 1}}}}

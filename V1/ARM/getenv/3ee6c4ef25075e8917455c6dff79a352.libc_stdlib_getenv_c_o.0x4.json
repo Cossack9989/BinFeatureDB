@@ -1,0 +1,1 @@
+{"hash": "3:ooFAoB4aKE:vLP", "head": 4, "tail": 28, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:ooFAoB4aKE:vLP"}, "ea": {"0": [4, 28]}, "attr": {"0": {"consts": [], "symbol": ["_findenv"], "calls": 1, "insts": 7, "insts_list": ["PUSH", "ADD", "BL", "ADD", "POP", "BX", "RETEQ"], "arithmetic": 2, "ret": 2}}}}

@@ -1,0 +1,1 @@
+{"hash": "3:FjOa6z:hOX", "head": 79984, "tail": 80000, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:FjOa6z:hOX"}, "ea": {"0": [79984, 80000]}, "attr": {"0": {"consts": [], "symbol": ["sscanf"], "calls": 1, "insts": 5, "insts_list": ["ADRP", "LDR", "ADD", "BR", "ADRP"], "arithmetic": 1}}}}

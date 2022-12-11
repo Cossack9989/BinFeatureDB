@@ -1,0 +1,1 @@
+{"hash": "3:DI1K8l:DeK0", "head": 296, "tail": 312, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:DI1K8l:DeK0"}, "ea": {"0": [296, 312]}, "attr": {"0": {"insts": 3, "insts_list": ["la", "auipc", "jr"], "flags-jumps": 1}}}}

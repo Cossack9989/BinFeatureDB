@@ -1,0 +1,1 @@
+{"hash": "3:Xd/9lNByn:N/HLy", "head": 259228, "tail": 259256, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:Xd/9lNByn:N/HLy"}, "ea": {"0": [259228, 259256]}, "attr": {"0": {"consts": [], "symbol": ["sendto"], "calls": 1, "insts": 8, "insts_list": ["MOV", "PUSH", "STR", "STR", "BL", "ADD", "POP", "MOV"], "arithmetic": 3, "ret": 1}}}}

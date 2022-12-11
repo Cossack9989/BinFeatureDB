@@ -1,0 +1,1 @@
+{"hash": "3:moifzl:r8", "head": 192592, "tail": 192616, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:moifzl:r8"}, "ea": {"0": [192592, 192616]}, "attr": {"0": {"insts": 6, "insts_list": ["lw", "li", "add", "lw", "j", "lw"], "arithmetic": 1, "flags-jumps": 1}}}}

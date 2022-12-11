@@ -1,0 +1,1 @@
+{"hash": "3:Olxb49BFROHqqt:OsFRpu", "head": 220432, "tail": 220472, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:Olxb49BFROHqqt:OsFRpu"}, "ea": {"0": [220432, 220472]}, "attr": {"0": {"consts": [], "symbol": ["vasprintf"], "calls": 1, "insts": 11, "insts_list": ["PUSH", "PUSH", "LDR", "ADD", "STR", "BL", "ADD", "POP", "ADD", "BX", "PUSH"], "arithmetic": 3, "ret": 2}}}}

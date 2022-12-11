@@ -1,0 +1,1 @@
+{"hash": "3:Nl:3", "head": 365472, "tail": 365483, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:Nl:3"}, "ea": {"0": [365472, 365483]}, "attr": {"0": {"consts": [0, 0], "symbol": [], "calls": 1, "insts": 4, "insts_list": ["endbr64", "xor", "jmp", ""], "logic": 1, "flags-jumps": 1}}}}

@@ -1,0 +1,1 @@
+{"hash": "3:SZ11ndn:q/d", "head": 1221296, "tail": 1221304, "hcfg": {}, "acfg": {"cfg": {"0": ["1"]}, "hash": {"0": "3:SZ11ndn:q/d"}, "ea": {"0": [1221296, 1221304]}, "attr": {"0": {"insts": 3, "insts_list": ["addis", "addi", "mflr"], "arithmetic": 2}}}}

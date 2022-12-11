@@ -1,0 +1,1 @@
+{"hash": "3:B1mt7dJo5Ocfkmr:6dJ1cM2", "head": 169044, "tail": 169080, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:B1mt7dJo5Ocfkmr:6dJ1cM2"}, "ea": {"0": [169044, 169080]}, "attr": {"0": {"insts": 13, "insts_list": ["sub_s", "push_s", "st_s", "st", "st", "st", "st", "bl.d", "add_s", "ld", "j_s.d", "add_s", "sub_s"], "arithmetic": 4, "calls": 1}}}}

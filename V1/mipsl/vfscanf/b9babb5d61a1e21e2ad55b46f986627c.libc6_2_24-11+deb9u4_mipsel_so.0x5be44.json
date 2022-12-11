@@ -1,0 +1,1 @@
+{"hash": "3:KyRWb/:PRWT", "head": 376388, "tail": 376412, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:KyRWb/:PRWT"}, "ea": {"0": [376388, 376412]}, "attr": {"0": {"consts": [0, 0], "symbol": ["_IO_vfscanf"], "calls": 1, "insts": 6, "insts_list": ["li", "addu", "la", "b", "move", ""], "arithmetic": 1, "flags-jumps": 1}}}}

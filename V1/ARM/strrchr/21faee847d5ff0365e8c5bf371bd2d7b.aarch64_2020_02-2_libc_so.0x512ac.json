@@ -1,0 +1,1 @@
+{"hash": "3:l2l8AaV4n2:l2l8t42", "head": 332460, "tail": 332496, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:l2l8AaV4n2:l2l8t42"}, "ea": {"0": [332460, 332496]}, "attr": {"0": {"consts": [1], "symbol": ["strlen", "memrchr"], "calls": 2, "insts": 10, "insts_list": ["STP", "MOV", "STR", "BL", "LDR", "ADD", "MOV", "LDP", "B", "STP"], "arithmetic": 3, "flags-jumps": 1}}}}

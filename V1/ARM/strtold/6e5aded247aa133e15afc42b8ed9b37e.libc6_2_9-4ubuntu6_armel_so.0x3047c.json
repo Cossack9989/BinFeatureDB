@@ -1,0 +1,1 @@
+{"hash": "3:57rCiO0dP:lr5P", "head": 197756, "tail": 197796, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:57rCiO0dP:lr5P"}, "ea": {"0": [197756, 197796]}, "attr": {"0": {"consts": [0, 0], "symbol": [], "calls": 2, "insts": 11, "insts_list": ["PUSH", "LDR", "MOV", "LDR", "BL", "MOV", "LDR", "MOV", "POP", "B", ""], "arithmetic": 3, "ret": 1, "flags-jumps": 1}}}}

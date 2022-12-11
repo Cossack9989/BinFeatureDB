@@ -1,0 +1,1 @@
+{"hash": "3:Wgb:Wgb", "head": 161336, "tail": 161344, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:Wgb:Wgb"}, "ea": {"0": [161336, 161344]}, "attr": {"0": {"consts": [10, 0, 0, 10], "symbol": ["__GI_strtol"], "calls": 1, "insts": 4, "insts_list": ["MOVS", "MOVS", "B.W", "MOVS"]}}}}

@@ -1,0 +1,1 @@
+{"hash": "3:Xd/8llOMByn:N/8/O2y", "head": 283096, "tail": 283124, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:Xd/8llOMByn:N/8/O2y"}, "ea": {"0": [283096, 283124]}, "attr": {"0": {"consts": [0, 0, 0, 0], "symbol": ["sendto"], "calls": 1, "insts": 8, "insts_list": ["MOV", "PUSH", "STR", "STR", "BL", "ADD", "POP", "MOV"], "arithmetic": 3, "ret": 1}}}}

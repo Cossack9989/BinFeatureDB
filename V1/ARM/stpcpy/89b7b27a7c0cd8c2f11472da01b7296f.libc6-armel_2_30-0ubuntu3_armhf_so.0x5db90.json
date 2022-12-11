@@ -1,0 +1,1 @@
+{"hash": "3:ulqn:uE", "head": 383888, "tail": 383894, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:ulqn:uE"}, "ea": {"0": [383888, 383894]}, "attr": {"0": {"consts": [], "symbol": [], "calls": 0, "insts": 3, "insts_list": ["MOV.W", "B", ""], "flags-jumps": 1}}}}

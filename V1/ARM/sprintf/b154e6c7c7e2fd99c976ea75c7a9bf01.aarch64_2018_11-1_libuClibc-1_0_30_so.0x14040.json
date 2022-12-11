@@ -1,0 +1,1 @@
+{"hash": "3:Fi+n:x", "head": 81984, "tail": 82000, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:Fi+n:x"}, "ea": {"0": [81984, 82000]}, "attr": {"0": {"consts": [], "symbol": ["sprintf"], "calls": 1, "insts": 5, "insts_list": ["ADRP", "LDR", "ADD", "BR", "ADRP"], "arithmetic": 1}}}}

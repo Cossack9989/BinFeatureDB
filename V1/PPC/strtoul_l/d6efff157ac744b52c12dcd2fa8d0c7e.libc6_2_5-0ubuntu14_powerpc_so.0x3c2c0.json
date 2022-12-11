@@ -1,0 +1,1 @@
+{"hash": "3:NXdty1Vqn:NNtyG", "head": 246464, "tail": 246484, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:NXdty1Vqn:NNtyG"}, "ea": {"0": [246464, 246484]}, "attr": {"0": {"insts": 6, "insts_list": ["stwu", "mr", "li", "addi", "b", ""], "arithmetic": 1, "flags-jumps": 1}}}}

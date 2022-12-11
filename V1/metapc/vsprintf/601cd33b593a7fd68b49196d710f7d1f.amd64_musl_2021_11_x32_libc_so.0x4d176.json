@@ -1,0 +1,1 @@
+{"hash": "3:52+8p:5L8p", "head": 315766, "tail": 315782, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:52+8p:5L8p"}, "ea": {"0": [315766, 315782]}, "attr": {"0": {"consts": [2147483647, 2147483647], "symbol": ["vsnprintf"], "calls": 1, "insts": 5, "insts_list": ["mov", "mov", "mov", "jmp", "push"], "flags-jumps": 1}}}}

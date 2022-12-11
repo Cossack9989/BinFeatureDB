@@ -1,0 +1,1 @@
+{"hash": "3:Cne5lDhrFqsr:ke5lDnR", "head": 329604, "tail": 329642, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:Cne5lDhrFqsr:ke5lDnR"}, "ea": {"0": [329604, 329642]}, "attr": {"0": {"insts": 14, "insts_list": ["sub_s", "push_s", "st_s", "st_s", "st", "st", "st", "st", "bl.d", "add_s", "ld", "j_s.d", "add_s", ""], "arithmetic": 3, "calls": 1}}}}

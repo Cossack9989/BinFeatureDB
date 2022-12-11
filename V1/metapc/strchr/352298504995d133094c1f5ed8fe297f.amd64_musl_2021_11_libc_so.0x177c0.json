@@ -1,0 +1,1 @@
+{"hash": "3:u9AK6:yAz", "head": 96192, "tail": 96210, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:u9AK6:yAz"}, "ea": {"0": [96192, 96210]}, "attr": {"0": {"consts": [0], "symbol": ["strchrnul"], "calls": 1, "insts": 9, "insts_list": ["push", "mov", "call", "xor", "cmp", "pop", "cmovnz", "retn", ""], "logic": 1, "ret": 1}}}}

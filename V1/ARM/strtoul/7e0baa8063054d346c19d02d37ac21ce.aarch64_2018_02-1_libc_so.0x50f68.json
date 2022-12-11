@@ -1,0 +1,1 @@
+{"hash": "3:fyn:an", "head": 331624, "tail": 331632, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:fyn:an"}, "ea": {"0": [331624, 331632]}, "attr": {"0": {"consts": [18446744073709551615, 18446744073709551615], "symbol": ["strtox_0"], "calls": 1, "insts": 3, "insts_list": ["MOV", "B", "MOV"], "arithmetic": 2, "flags-jumps": 1}}}}

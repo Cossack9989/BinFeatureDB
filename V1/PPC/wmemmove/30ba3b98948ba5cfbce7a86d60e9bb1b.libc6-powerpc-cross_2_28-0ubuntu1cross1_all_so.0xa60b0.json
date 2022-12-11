@@ -1,0 +1,1 @@
+{"hash": "3:1A1eTKn:1w", "head": 680112, "tail": 680140, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:1A1eTKn:1w"}, "ea": {"0": [680112, 680140]}, "attr": {"0": {"insts": 8, "insts_list": ["stwu", "slwi", "stw", "mr", "lwz", "addi", "b", ""], "arithmetic": 1, "flags-jumps": 1}}}}

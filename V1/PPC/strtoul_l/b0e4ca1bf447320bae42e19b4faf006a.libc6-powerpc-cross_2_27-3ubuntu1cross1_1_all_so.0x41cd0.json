@@ -1,0 +1,1 @@
+{"hash": "3:diWN/Dl9dq2Rn:d1N/59dpR", "head": 269520, "tail": 269552, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:diWN/Dl9dq2Rn:d1N/59dpR"}, "ea": {"0": [269520, 269552]}, "attr": {"0": {"insts": 9, "insts_list": ["stwu", "mr", "li", "stw", "mr", "lwz", "addi", "b", ""], "arithmetic": 1, "flags-jumps": 1}}}}

@@ -1,0 +1,1 @@
+{"hash": "3:aAshdA:wdA", "head": 488528, "tail": 488552, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:aAshdA:wdA"}, "ea": {"0": [488528, 488552]}, "attr": {"0": {"insts": 7, "insts_list": ["lui", "daddu", "daddiu", "ld", "b", "move", ""], "flags-jumps": 1}}}}

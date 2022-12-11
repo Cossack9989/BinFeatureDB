@@ -1,0 +1,1 @@
+{"hash": "3:3Zlib:Wb", "head": 713712, "tail": 713720, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:3Zlib:Wb"}, "ea": {"0": [713712, 713720]}, "attr": {"0": {"insts": 3, "insts_list": ["larl", "br", ""], "ret": 1}}}}

@@ -1,0 +1,1 @@
+{"hash": "3:qdLmZva1:mLmZvu", "head": 466648, "tail": 466672, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:qdLmZva1:mLmZvu"}, "ea": {"0": [466648, 466672]}, "attr": {"0": {"consts": [0, 0], "symbol": [], "calls": 1, "insts": 6, "insts_list": ["li", "addu", "la", "b", "move", "li"], "arithmetic": 1, "flags-jumps": 1}}}}

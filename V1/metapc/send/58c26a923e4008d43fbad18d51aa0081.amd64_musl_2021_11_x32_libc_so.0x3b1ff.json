@@ -1,0 +1,1 @@
+{"hash": "3:RGS:wS", "head": 242175, "tail": 242186, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:RGS:wS"}, "ea": {"0": [242175, 242186]}, "attr": {"0": {"consts": [0, 0, 0, 0], "symbol": ["sendto"], "calls": 1, "insts": 4, "insts_list": ["xor", "xor", "jmp", "sub"], "logic": 2, "flags-jumps": 1, "arithmetic": 1}}}}

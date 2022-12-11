@@ -1,0 +1,1 @@
+{"hash": "3:4rrYmFHFVp:4rMmn3", "head": 275436, "tail": 275462, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:4rrYmFHFVp:4rMmn3"}, "ea": {"0": [275436, 275462]}, "attr": {"0": {"insts": 12, "insts_list": ["entry", "mov", "movi", "mov", "mov", "or", "l32r", "callx8", "mov", "mov", "retw", ""], "logic": 1, "calls": 1, "ret": 1}}}}

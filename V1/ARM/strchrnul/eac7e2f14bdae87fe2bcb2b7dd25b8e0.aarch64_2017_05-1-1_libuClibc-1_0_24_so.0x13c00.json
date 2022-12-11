@@ -1,0 +1,1 @@
+{"hash": "3:FU1n+:K+", "head": 80896, "tail": 80912, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:FU1n+:K+"}, "ea": {"0": [80896, 80912]}, "attr": {"0": {"consts": [], "symbol": ["strchrnul"], "calls": 1, "insts": 5, "insts_list": ["ADRP", "LDR", "ADD", "BR", "ADRP"], "arithmetic": 1}}}}

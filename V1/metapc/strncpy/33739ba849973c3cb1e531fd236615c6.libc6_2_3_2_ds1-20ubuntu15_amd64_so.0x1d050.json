@@ -1,0 +1,1 @@
+{"hash": "3:LA:s", "head": 118864, "tail": 118870, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:LA:s"}, "ea": {"0": [118864, 118870]}, "attr": {"0": {"consts": [], "symbol": ["strncpy"], "calls": 1, "insts": 2, "insts_list": ["jmp", "push"], "flags-jumps": 1}}}}

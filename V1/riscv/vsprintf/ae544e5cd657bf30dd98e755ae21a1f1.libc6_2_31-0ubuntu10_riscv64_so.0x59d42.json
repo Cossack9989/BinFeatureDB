@@ -1,0 +1,1 @@
+{"hash": "3:f2a:f2a", "head": 367938, "tail": 367948, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:f2a:f2a"}, "ea": {"0": [367938, 367948]}, "attr": {"0": {"insts": 6, "insts_list": ["mv", "li", "mv", "li", "j", "addi"], "flags-jumps": 1, "arithmetic": 1}}}}

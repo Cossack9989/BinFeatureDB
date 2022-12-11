@@ -1,0 +1,1 @@
+{"hash": "3:YcPfFW:bPfs", "head": 134265104, "tail": 134265116, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:YcPfFW:bPfs"}, "ea": {"0": [134265104, 134265116]}, "attr": {"0": {"consts": [], "symbol": ["__stpcpy"], "calls": 1, "insts": 6, "insts_list": ["PUSH", "MOV", "BL", "MOV", "POP", "PUSH"], "arithmetic": 2, "ret": 1}}}}

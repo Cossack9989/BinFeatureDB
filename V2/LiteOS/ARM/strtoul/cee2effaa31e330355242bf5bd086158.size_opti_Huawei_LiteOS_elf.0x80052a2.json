@@ -1,0 +1,1 @@
+{"hash": "3:SuN01y:tqy", "head": 134238882, "tail": 134238902, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:SuN01y:tqy"}, "ea": {"0": [134238882, 134238902]}, "attr": {"0": {"consts": [4294967295, 4294967295], "symbol": ["strtox"], "calls": 1, "insts": 8, "insts_list": ["PUSH", "MOV.W", "MOVS", "STRD.W", "BL", "ADD", "POP", "PUSH"], "arithmetic": 1, "ret": 1}}}}

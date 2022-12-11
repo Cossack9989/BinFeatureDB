@@ -1,0 +1,1 @@
+{"hash": "3:itOZmn:icY", "head": 319368, "tail": 319381, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:itOZmn:icY"}, "ea": {"0": [319368, 319381]}, "attr": {"0": {"consts": [2147483648, 2147483648], "symbol": ["strtox_0"], "calls": 1, "insts": 6, "insts_list": ["push", "mov", "call", "pop", "retn", "jmp"], "ret": 1, "flags-jumps": 1}}}}

@@ -1,0 +1,1 @@
+{"hash": "3:Zn2c4Vn:B2c4Vn", "head": 84, "tail": 104, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:Zn2c4Vn:B2c4Vn"}, "ea": {"0": [84, 104]}, "attr": {"0": {"insts": 9, "insts_list": ["s32i", "l32r", "callx8", "l32i", "movi", "s8i", "mov", "retw", "entry"], "calls": 1, "ret": 1}}}}

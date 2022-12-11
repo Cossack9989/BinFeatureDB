@@ -1,0 +1,1 @@
+{"hash": "3:44Ha:4/", "head": 1610622344, "tail": 1610622364, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:44Ha:4/"}, "ea": {"0": [1610622344, 1610622364]}, "attr": {"0": {"insts": 8, "insts_list": ["entry", "or", "call8", "or", "add", "call8", "retw", "entry"], "logic": 2, "calls": 2, "arithmetic": 1, "ret": 1}}}}

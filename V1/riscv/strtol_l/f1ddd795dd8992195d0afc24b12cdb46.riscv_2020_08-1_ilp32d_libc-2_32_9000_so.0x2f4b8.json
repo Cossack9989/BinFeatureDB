@@ -1,0 +1,1 @@
+{"hash": "3:SjCHn:fHn", "head": 193720, "tail": 193732, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:SjCHn:fHn"}, "ea": {"0": [193720, 193732]}, "attr": {"0": {"insts": 4, "insts_list": ["mv", "li", "j", "addi"], "flags-jumps": 1, "arithmetic": 1}}}}

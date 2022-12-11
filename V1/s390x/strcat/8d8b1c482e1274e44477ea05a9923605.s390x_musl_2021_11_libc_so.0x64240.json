@@ -1,0 +1,1 @@
+{"hash": "3:lfbdO/LfOlAlQs77Xhy:NbeLfOeQuy", "head": 410176, "tail": 410232, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:lfbdO/LfOlAlQs77Xhy:NbeLfOeQuy"}, "ea": {"0": [410176, 410232]}, "attr": {"0": {"insts": 13, "insts_list": ["stmg", "aghi", "lgr", "lgr", "brasl", "lgr", "la", "brasl", "lg", "lgr", "lmg", "br", "stmg"], "arithmetic": 1, "calls": 2, "ret": 1}}}}

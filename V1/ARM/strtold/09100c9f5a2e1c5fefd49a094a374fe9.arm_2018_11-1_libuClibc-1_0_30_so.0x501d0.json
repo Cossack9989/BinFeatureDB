@@ -1,0 +1,1 @@
+{"hash": "3:08Pn:08P", "head": 328144, "tail": 328152, "hcfg": {}, "acfg": {"cfg": {"0": ["1"]}, "hash": {"0": "3:08Pn:08P"}, "ea": {"0": [328144, 328152]}, "attr": {"0": {"consts": [0], "symbol": [], "calls": 0, "insts": 3, "insts_list": ["MOV", "B", "PUSH"], "arithmetic": 1, "flags-jumps": 1}}}}

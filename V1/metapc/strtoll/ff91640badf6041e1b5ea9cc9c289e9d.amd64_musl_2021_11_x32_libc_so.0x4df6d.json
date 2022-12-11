@@ -1,0 +1,1 @@
+{"hash": "3:P/tNxaR:P/tKR", "head": 319341, "tail": 319355, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:P/tNxaR:P/tKR"}, "ea": {"0": [319341, 319355]}, "attr": {"0": {"consts": [9223372036854775808, 9223372036854775808], "symbol": ["strtox_0"], "calls": 1, "insts": 4, "insts_list": ["mov", "shl", "jmp", "push"], "shift": 1, "flags-jumps": 1}}}}

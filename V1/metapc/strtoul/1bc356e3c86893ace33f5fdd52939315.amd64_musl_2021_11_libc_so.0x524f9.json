@@ -1,0 +1,1 @@
+{"hash": "3:AaR:AaR", "head": 337145, "tail": 337150, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:AaR:AaR"}, "ea": {"0": [337145, 337150]}, "attr": {"0": {"consts": [], "symbol": ["strtoull.localalias"], "calls": 1, "insts": 2, "insts_list": ["jmp", "jmp"], "flags-jumps": 2}}}}

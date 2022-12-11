@@ -1,0 +1,1 @@
+{"hash": "3:nkgqa:kC", "head": 181088, "tail": 181096, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:nkgqa:kC"}, "ea": {"0": [181088, 181096]}, "attr": {"0": {"insts": 4, "insts_list": ["mov_s", "mov_s", "b", "push_s"], "flags-jumps": 1}}}}

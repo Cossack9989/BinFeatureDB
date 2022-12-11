@@ -1,0 +1,1 @@
+{"hash": "3:Sn:S", "head": 496, "tail": 500, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:Sn:S"}, "ea": {"0": [496, 500]}, "attr": {"0": {"consts": [], "symbol": ["_strtoll_l"], "calls": 1, "insts": 1, "insts_list": ["B"], "flags-jumps": 1}}}}

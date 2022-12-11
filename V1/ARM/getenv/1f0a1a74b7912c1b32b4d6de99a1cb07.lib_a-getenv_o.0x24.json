@@ -1,0 +1,1 @@
+{"hash": "3:TIVPFlrlObq4aKE:ElPlNP", "head": 36, "tail": 76, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:TIVPFlrlObq4aKE:ElPlNP"}, "ea": {"0": [36, 76]}, "attr": {"0": {"consts": [], "symbol": ["_findenv_r"], "calls": 1, "insts": 11, "insts_list": ["PUSH", "LDR", "SUB", "MOV", "ADD", "LDR", "BL", "ADD", "POP", "BX", ""], "arithmetic": 4, "ret": 2}}}}

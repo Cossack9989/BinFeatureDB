@@ -1,0 +1,1 @@
+{"hash": "3:vZF1nd:j", "head": 1269920, "tail": 1269928, "hcfg": {}, "acfg": {"cfg": {"0": ["1"]}, "hash": {"0": "3:vZF1nd:j"}, "ea": {"0": [1269920, 1269928]}, "attr": {"0": {"insts": 3, "insts_list": ["addis", "addi", "lwz"], "arithmetic": 2}}}}

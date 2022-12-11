@@ -1,0 +1,1 @@
+{"hash": "3:dn:d", "head": 123460, "tail": 123468, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:dn:d"}, "ea": {"0": [123460, 123468]}, "attr": {"0": {"consts": [0], "symbol": [], "calls": 0, "insts": 3, "insts_list": ["MOV", "BX", "MOV"], "arithmetic": 2, "ret": 1}}}}

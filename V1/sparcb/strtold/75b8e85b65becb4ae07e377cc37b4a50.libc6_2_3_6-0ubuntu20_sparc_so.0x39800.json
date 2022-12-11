@@ -1,0 +1,1 @@
+{"hash": "3:uA/4abfRn0kln18Il:ZfbPlSY", "head": 235520, "tail": 235560, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:uA/4abfRn0kln18Il:ZfbPlSY"}, "ea": {"0": [235520, 235560]}, "attr": {"0": {"insts": 11, "insts_list": ["save", "sethi", "sethi", "call", "inc", "add", "ld", "ld", "ba", "restore", "nop"], "calls": 1, "arithmetic": 1, "flags-jumps": 1, "ret": 1}}}}

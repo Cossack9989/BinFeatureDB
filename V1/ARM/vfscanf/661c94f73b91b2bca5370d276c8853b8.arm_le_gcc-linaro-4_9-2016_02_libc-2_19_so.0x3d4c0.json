@@ -1,0 +1,1 @@
+{"hash": "3:ybn:ybn", "head": 251072, "tail": 251078, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:ybn:ybn"}, "ea": {"0": [251072, 251078]}, "attr": {"0": {"consts": [0, 0], "symbol": ["_IO_vfscanf_internal"], "calls": 1, "insts": 3, "insts_list": ["MOVS", "B.W", ""]}}}}

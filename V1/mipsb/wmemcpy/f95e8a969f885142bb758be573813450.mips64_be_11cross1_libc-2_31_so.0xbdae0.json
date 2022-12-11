@@ -1,0 +1,1 @@
+{"hash": "3:PmL+8kviW5V4a3ylTI1:PmnK5V4i2TI1", "head": 776928, "tail": 776980, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:PmL+8kviW5V4a3ylTI1:PmnK5V4i2TI1"}, "ea": {"0": [776928, 776980]}, "attr": {"0": {"insts": 14, "insts_list": ["daddiu", "sd", "lui", "daddu", "daddiu", "dla", "sd", "bal", "dsll", "ld", "ld", "jr", "daddiu", ""], "flags-jumps": 2}}}}

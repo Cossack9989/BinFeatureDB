@@ -1,0 +1,1 @@
+{"hash": "3:Ton:cn", "head": 263866, "tail": 263872, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:Ton:cn"}, "ea": {"0": [263866, 263872]}, "attr": {"0": {"insts": 3, "insts_list": ["li", "j", "ld"], "flags-jumps": 1}}}}

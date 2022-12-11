@@ -1,0 +1,1 @@
+{"hash": "3:Zg:K", "head": 12, "tail": 24, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:Zg:K"}, "ea": {"0": [12, 24]}, "attr": {"0": {"consts": [10, 0, 10, 0], "symbol": ["_strtol_r"], "calls": 1, "insts": 3, "insts_list": ["li", "j", "move"], "flags-jumps": 1}}}}

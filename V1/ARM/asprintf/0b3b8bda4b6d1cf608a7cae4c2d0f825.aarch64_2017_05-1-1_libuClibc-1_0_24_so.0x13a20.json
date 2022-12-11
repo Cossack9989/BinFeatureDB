@@ -1,0 +1,1 @@
+{"hash": "3:FM1286z:iq", "head": 80416, "tail": 80432, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:FM1286z:iq"}, "ea": {"0": [80416, 80432]}, "attr": {"0": {"consts": [], "symbol": ["asprintf"], "calls": 1, "insts": 5, "insts_list": ["ADRP", "LDR", "ADD", "BR", "ADRP"], "arithmetic": 1}}}}

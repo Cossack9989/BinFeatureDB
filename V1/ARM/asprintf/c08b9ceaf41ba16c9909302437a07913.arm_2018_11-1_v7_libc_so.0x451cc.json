@@ -1,0 +1,1 @@
+{"hash": "3:OlxPapTkZHqqt:OiT3u", "head": 283084, "tail": 283124, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:OlxPapTkZHqqt:OiT3u"}, "ea": {"0": [283084, 283124]}, "attr": {"0": {"consts": [], "symbol": ["vasprintf"], "calls": 1, "insts": 11, "insts_list": ["PUSH", "PUSH", "ADD", "LDR", "STR", "BL", "ADD", "POP", "ADD", "BX", "LDR"], "arithmetic": 3, "ret": 2}}}}

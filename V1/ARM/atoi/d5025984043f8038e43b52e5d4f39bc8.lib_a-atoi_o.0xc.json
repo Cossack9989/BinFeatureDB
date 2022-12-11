@@ -1,0 +1,1 @@
+{"hash": "3:P7:P7", "head": 12, "tail": 24, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:P7:P7"}, "ea": {"0": [12, 24]}, "attr": {"0": {"consts": [10, 0, 0, 10], "symbol": ["_strtol_r"], "calls": 1, "insts": 5, "insts_list": ["PUSH", "MOVS", "MOVS", "BL", "POP"], "ret": 1}}}}

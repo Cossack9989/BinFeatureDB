@@ -1,0 +1,1 @@
+{"hash": "3:GVu:Gc", "head": 654848, "tail": 654856, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:GVu:Gc"}, "ea": {"0": [654848, 654856]}, "attr": {"0": {"insts": 3, "insts_list": ["slwi", "b", ""], "flags-jumps": 1}}}}

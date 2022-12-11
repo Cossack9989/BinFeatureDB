@@ -1,0 +1,1 @@
+{"hash": "3:8Zc8Kmn:Ic8ln", "head": 395552, "tail": 395576, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:8Zc8Kmn:Ic8ln"}, "ea": {"0": [395552, 395576]}, "attr": {"0": {"consts": [0, 0], "symbol": ["__strtofpmax"], "calls": 1, "insts": 6, "insts_list": ["li", "addu", "la", "b", "move", ""], "arithmetic": 1, "flags-jumps": 1}}}}

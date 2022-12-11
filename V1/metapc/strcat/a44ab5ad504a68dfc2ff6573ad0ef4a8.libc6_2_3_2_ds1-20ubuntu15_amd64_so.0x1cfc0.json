@@ -1,0 +1,1 @@
+{"hash": "3:LTEln:fM", "head": 118720, "tail": 118726, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:LTEln:fM"}, "ea": {"0": [118720, 118726]}, "attr": {"0": {"consts": [], "symbol": ["strcat"], "calls": 1, "insts": 2, "insts_list": ["jmp", "push"], "flags-jumps": 1}}}}

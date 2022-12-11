@@ -1,0 +1,1 @@
+{"hash": "3:R9OlljF:+7", "head": 475864, "tail": 475880, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:R9OlljF:+7"}, "ea": {"0": [475864, 475880]}, "attr": {"0": {"insts": 5, "insts_list": ["mffs", "stfd", "li", "blr", "cmpwi"], "ret": 1}}}}

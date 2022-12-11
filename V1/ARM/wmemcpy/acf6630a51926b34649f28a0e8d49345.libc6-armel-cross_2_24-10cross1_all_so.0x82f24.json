@@ -1,0 +1,1 @@
+{"hash": "3:ZnaOA0f:ZFAo", "head": 536356, "tail": 536376, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:ZnaOA0f:ZFAo"}, "ea": {"0": [536356, 536376]}, "attr": {"0": {"consts": [4], "symbol": ["memcpy"], "calls": 1, "insts": 6, "insts_list": ["PUSH", "MOV", "BL", "POP", "BX", "PUSH"], "arithmetic": 1, "ret": 2}}}}

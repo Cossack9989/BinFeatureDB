@@ -1,0 +1,1 @@
+{"hash": "3:GVD:GV", "head": 618012, "tail": 618020, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:GVD:GV"}, "ea": {"0": [618012, 618020]}, "attr": {"0": {"insts": 3, "insts_list": ["slwi", "b", "subf"], "flags-jumps": 1, "arithmetic": 1}}}}

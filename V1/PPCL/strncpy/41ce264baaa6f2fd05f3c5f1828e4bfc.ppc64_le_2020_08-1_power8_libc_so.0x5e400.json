@@ -1,0 +1,1 @@
+{"hash": "3:tgZ1a8Cq/k:Ka8Cq/k", "head": 386048, "tail": 386088, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:tgZ1a8Cq/k:Ka8Cq/k"}, "ea": {"0": [386048, 386088]}, "attr": {"0": {"insts": 11, "insts_list": ["mflr", "std", "mr", "std", "stdu", "bl", "nop", "addi", "mr", "b", ""], "calls": 1, "arithmetic": 1, "flags-jumps": 1}}}}

@@ -1,0 +1,1 @@
+{"hash": "3:GHznw:Aw", "head": 185220, "tail": 185238, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:GHznw:Aw"}, "ea": {"0": [185220, 185238]}, "attr": {"0": {"consts": [], "symbol": [], "calls": 1, "insts": 9, "insts_list": ["PUSH", "SUB", "MOV", "MOVS", "STR", "BL", "ADD", "POP", ""], "arithmetic": 3, "ret": 1}}}}

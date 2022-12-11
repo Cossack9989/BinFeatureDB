@@ -1,0 +1,1 @@
+{"hash": "3:mrSXF:mrS1", "head": 134328564, "tail": 134328586, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:mrSXF:mrS1"}, "ea": {"0": [134328564, 134328586]}, "attr": {"0": {"consts": [0], "symbol": [], "calls": 0, "insts": 11, "insts_list": ["PUSH", "SUB", "ADD", "STR", "MOVS", "MOV", "ADDS", "MOV", "POP.W", "BX", "PUSH"], "arithmetic": 4, "ret": 1}}}}

@@ -1,0 +1,1 @@
+{"hash": "3:lC7:U", "head": 80336, "tail": 80352, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:lC7:U"}, "ea": {"0": [80336, 80352]}, "attr": {"0": {"consts": [], "symbol": ["getenv"], "calls": 1, "insts": 5, "insts_list": ["ADRP", "LDR", "ADD", "BR", "ADRP"], "arithmetic": 1}}}}

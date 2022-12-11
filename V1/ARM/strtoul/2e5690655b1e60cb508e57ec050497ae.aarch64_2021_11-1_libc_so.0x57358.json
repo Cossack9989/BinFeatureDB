@@ -1,0 +1,1 @@
+{"hash": "3:k5:k5", "head": 357208, "tail": 357212, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:k5:k5"}, "ea": {"0": [357208, 357212]}, "attr": {"0": {"consts": [], "symbol": ["strtoull.localalias"], "calls": 1, "insts": 2, "insts_list": ["B", "B"], "flags-jumps": 2}}}}

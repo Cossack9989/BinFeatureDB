@@ -1,0 +1,1 @@
+{"hash": "3:I7yTn:I7yT", "head": 0, "tail": 20, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:I7yTn:I7yT"}, "ea": {"0": [0, 20]}, "attr": {"0": {"consts": [], "symbol": ["_strtoll_r"], "calls": 1, "insts": 9, "insts_list": ["PUSH", "LDR", "MOV", "MOV", "MOV", "LDR", "POP.W", "B.W", ""], "arithmetic": 3}}}}

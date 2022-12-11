@@ -1,0 +1,1 @@
+{"hash": "3:18F3Bll:635", "head": 77612, "tail": 77628, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:18F3Bll:635"}, "ea": {"0": [77612, 77628]}, "attr": {"0": {"consts": [0], "symbol": [], "calls": 0, "insts": 5, "insts_list": ["cfc1", "sw", "jr", "li", "addiu"], "flags-jumps": 1, "arithmetic": 1}}}}

@@ -1,0 +1,1 @@
+{"hash": "3:QBbn:QBb", "head": 188952, "tail": 188960, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:QBbn:QBb"}, "ea": {"0": [188952, 188960]}, "attr": {"0": {"insts": 4, "insts_list": ["mov_s", "b.d", "mov_s", "push_s"]}}}}

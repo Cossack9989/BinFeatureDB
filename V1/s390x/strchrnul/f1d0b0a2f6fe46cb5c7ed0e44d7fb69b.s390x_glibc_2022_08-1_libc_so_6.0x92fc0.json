@@ -1,0 +1,1 @@
+{"hash": "3:3XWn:Wn", "head": 602048, "tail": 602056, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:3XWn:Wn"}, "ea": {"0": [602048, 602056]}, "attr": {"0": {"insts": 3, "insts_list": ["larl", "br", "stmg"], "ret": 1}}}}

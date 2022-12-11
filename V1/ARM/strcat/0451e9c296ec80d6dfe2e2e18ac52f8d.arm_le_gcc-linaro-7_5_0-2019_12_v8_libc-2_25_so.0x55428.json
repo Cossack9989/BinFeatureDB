@@ -1,0 +1,1 @@
+{"hash": "3:S6dmOja:S6dra", "head": 349224, "tail": 349246, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:S6dmOja:S6dra"}, "ea": {"0": [349224, 349246]}, "attr": {"0": {"consts": [], "symbol": ["strlen_1", "__GI_strcpy"], "calls": 2, "insts": 10, "insts_list": ["PUSH", "MOV", "MOV", "BLX", "MOV", "ADD", "BL", "MOV", "POP", ""], "arithmetic": 5, "ret": 1}}}}

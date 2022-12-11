@@ -1,0 +1,1 @@
+{"hash": "3:4HmUltm7m:t8mi", "head": 224896, "tail": 224917, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:4HmUltm7m:t8mi"}, "ea": {"0": [224896, 224917]}, "attr": {"0": {"consts": [10, 0, 0, 10], "symbol": ["strtoq"], "calls": 1, "insts": 7, "insts_list": ["sub", "mov", "xor", "call", "add", "retn", ""], "arithmetic": 2, "logic": 1, "ret": 1}}}}

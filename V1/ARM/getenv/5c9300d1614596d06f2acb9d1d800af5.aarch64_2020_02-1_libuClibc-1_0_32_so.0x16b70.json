@@ -1,0 +1,1 @@
+{"hash": "3:Re5g:Ya", "head": 93040, "tail": 93056, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:Re5g:Ya"}, "ea": {"0": [93040, 93056]}, "attr": {"0": {"consts": [], "symbol": ["getenv"], "calls": 1, "insts": 5, "insts_list": ["ADRP", "LDR", "ADD", "BR", "ADRP"], "arithmetic": 1}}}}

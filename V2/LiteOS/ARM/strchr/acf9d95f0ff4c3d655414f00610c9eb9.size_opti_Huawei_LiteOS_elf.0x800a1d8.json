@@ -1,0 +1,1 @@
+{"hash": "3:AJ9alFSn:nFSn", "head": 134259160, "tail": 134259180, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:AJ9alFSn:nFSn"}, "ea": {"0": [134259160, 134259180]}, "attr": {"0": {"consts": [0], "symbol": ["__strchrnul"], "calls": 1, "insts": 10, "insts_list": ["PUSH", "MOV", "BL", "LDRB", "UXTB", "CMP", "IT NE", "MOVNE", "POP", "PUSH"], "arithmetic": 1, "ret": 1}}}}

@@ -1,0 +1,1 @@
+{"hash": "3:fkNcOHVO3lksrn:MNcOHMVksr", "head": 471320, "tail": 471360, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:fkNcOHVO3lksrn:MNcOHMVksr"}, "ea": {"0": [471320, 471360]}, "attr": {"0": {"insts": 11, "insts_list": ["mflr", "std", "stdu", "li", "bl", "nop", "addi", "ld", "mtlr", "blr", ""], "calls": 1, "arithmetic": 1, "ret": 1}}}}

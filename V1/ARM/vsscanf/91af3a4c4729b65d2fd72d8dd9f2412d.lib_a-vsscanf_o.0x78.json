@@ -1,0 +1,1 @@
+{"hash": "3:xFENlE:xFuq", "head": 120, "tail": 144, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:xFENlE:xFuq"}, "ea": {"0": [120, 144]}, "attr": {"0": {"consts": [], "symbol": ["_vsscanf_r"], "calls": 1, "insts": 7, "insts_list": ["LDR", "MOV", "MOV", "MOV", "LDR", "B", ""], "arithmetic": 3, "flags-jumps": 1}}}}

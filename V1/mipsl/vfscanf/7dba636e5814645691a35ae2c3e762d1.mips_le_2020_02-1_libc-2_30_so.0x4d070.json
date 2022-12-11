@@ -1,0 +1,1 @@
+{"hash": "3:FZ1Y1GGxlyl:W1G+yl", "head": 315504, "tail": 315528, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:FZ1Y1GGxlyl:W1G+yl"}, "ea": {"0": [315504, 315528]}, "attr": {"0": {"consts": [0, 0], "symbol": ["__vfscanf_internal"], "calls": 1, "insts": 6, "insts_list": ["li", "addu", "la", "b", "move", ""], "arithmetic": 1, "flags-jumps": 1}}}}

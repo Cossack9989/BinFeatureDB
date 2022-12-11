@@ -1,0 +1,1 @@
+{"hash": "3:18P5l9lN:6P5FN", "head": 352456, "tail": 352476, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:18P5l9lN:6P5FN"}, "ea": {"0": [352456, 352476]}, "attr": {"0": {"insts": 6, "insts_list": ["mov", "mov", "mov", "ba", "nop", "mov"], "flags-jumps": 1}}}}

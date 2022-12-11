@@ -1,0 +1,1 @@
+{"hash": "3:4EFtC4+/UVn:4R4+/UV", "head": 352, "tail": 374, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:4EFtC4+/UVn:4R4+/UV"}, "ea": {"0": [352, 374]}, "attr": {"0": {"insts": 9, "insts_list": ["entry", "l32r", "callx8", "mov", "mov", "mov", "call8", "mov", "retw"], "calls": 2, "ret": 1}}}}

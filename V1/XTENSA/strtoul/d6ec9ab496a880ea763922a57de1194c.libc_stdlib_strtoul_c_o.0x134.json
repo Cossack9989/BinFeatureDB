@@ -1,0 +1,1 @@
+{"hash": "3:Fg/:a/", "head": 308, "tail": 320, "hcfg": {}, "acfg": {"cfg": {"0": ["1"]}, "hash": {"0": "3:Fg/:a/"}, "ea": {"0": [308, 320]}, "attr": {"0": {"insts": 5, "insts_list": ["l32r", "addi", "s32i", "call0", "l32i"], "arithmetic": 1}}}}

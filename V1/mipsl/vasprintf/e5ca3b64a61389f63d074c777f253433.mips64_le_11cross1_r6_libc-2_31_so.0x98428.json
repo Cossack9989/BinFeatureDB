@@ -1,0 +1,1 @@
+{"hash": "3:PthBtQn4:PTf", "head": 623656, "tail": 623680, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:PthBtQn4:PTf"}, "ea": {"0": [623656, 623680]}, "attr": {"0": {"insts": 7, "insts_list": ["lui", "daddu", "daddiu", "ld", "b", "move", "daddiu"], "flags-jumps": 1}}}}

@@ -1,0 +1,1 @@
+{"hash": "3:Ym1g:u", "head": 4, "tail": 16, "hcfg": {}, "acfg": {"cfg": {"0": ["1"]}, "hash": {"0": "3:Ym1g:u"}, "ea": {"0": [4, 16]}, "attr": {"0": {"insts": 6, "insts_list": ["addi", "movi", "movi", "s32i", "call0", "l32i"], "arithmetic": 1}}}}

@@ -1,0 +1,1 @@
+{"hash": "3:dVyVqbp1ksByFSfn:dVyQbkofn", "head": 551084, "tail": 551120, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:dVyVqbp1ksByFSfn:dVyQbkofn"}, "ea": {"0": [551084, 551120]}, "attr": {"0": {"insts": 10, "insts_list": ["stwu", "mflr", "slwi", "stw", "bl", "lwz", "addi", "mtlr", "blr", "cmplwi"], "calls": 1, "arithmetic": 1, "ret": 1}}}}

@@ -1,0 +1,1 @@
+{"hash": "3:eCg9EAS6a1Y:LeEAS0", "head": 48, "tail": 68, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:eCg9EAS6a1Y:LeEAS0"}, "ea": {"0": [48, 68]}, "attr": {"0": {"consts": [], "symbol": ["_vsprintf_r"], "calls": 1, "insts": 10, "insts_list": ["PUSH", "MOVS", "MOVS", "LDR", "LDR", "MOVS", "MOVS", "BL", "POP", ""], "ret": 1}}}}

@@ -1,0 +1,1 @@
+{"hash": "3:NzNaZlnbZt0rNn:NsDbZa5n", "head": 389868, "tail": 389912, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:NzNaZlnbZt0rNn:NsDbZa5n"}, "ea": {"0": [389868, 389912]}, "attr": {"0": {"insts": 12, "insts_list": ["stwu", "mflr", "li", "li", "stw", "bl", "lwz", "mr", "addi", "mtlr", "blr", "stwu"], "calls": 1, "arithmetic": 1, "ret": 1}}}}

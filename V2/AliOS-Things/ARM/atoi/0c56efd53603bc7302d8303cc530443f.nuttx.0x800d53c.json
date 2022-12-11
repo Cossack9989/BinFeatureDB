@@ -1,0 +1,1 @@
+{"hash": "3:Wf:Wf", "head": 134272316, "tail": 134272324, "hcfg": {}, "acfg": {"cfg": {"0": ["1"]}, "hash": {"0": "3:Wf:Wf"}, "ea": {"0": [134272316, 134272324]}, "attr": {"0": {"consts": [10, 0], "symbol": [], "calls": 0, "insts": 4, "insts_list": ["MOVS", "MOVS", "B.W", "PUSH"]}}}}

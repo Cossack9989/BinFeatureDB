@@ -1,0 +1,1 @@
+{"hash": "3:VGbQmml+wLDk:VGbQJ+wLQ", "head": 251468, "tail": 251520, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:VGbQmml+wLDk:VGbQJ+wLQ"}, "ea": {"0": [251468, 251520]}, "attr": {"0": {"insts": 14, "insts_list": ["addi", "sd", "addi", "sd", "sd", "sd", "sd", "sd", "sd", "jal", "ld", "addi", "ret", "addi"], "arithmetic": 4, "calls": 1, "ret": 1}}}}

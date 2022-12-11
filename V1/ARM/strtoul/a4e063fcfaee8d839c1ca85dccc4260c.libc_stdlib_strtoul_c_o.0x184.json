@@ -1,0 +1,1 @@
+{"hash": "3:DXE:TE", "head": 388, "tail": 396, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:DXE:TE"}, "ea": {"0": [388, 396]}, "attr": {"0": {"consts": [], "symbol": ["strtoul_l"], "calls": 1, "insts": 3, "insts_list": ["LDR", "B", ""], "flags-jumps": 1}}}}

@@ -1,0 +1,1 @@
+{"hash": "3:I9Iw+iUVd:I9Iw+iMd", "head": 776992, "tail": 777016, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:I9Iw+iUVd:I9Iw+iMd"}, "ea": {"0": [776992, 777016]}, "attr": {"0": {"insts": 7, "insts_list": ["lui", "daddu", "daddiu", "ld", "b", "dsll", ""], "flags-jumps": 1}}}}

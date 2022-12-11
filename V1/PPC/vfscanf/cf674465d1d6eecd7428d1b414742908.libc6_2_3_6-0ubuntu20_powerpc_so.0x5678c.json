@@ -1,0 +1,1 @@
+{"hash": "3:TnDhklT0a/+JgarNn:xI0y+Ca5n", "head": 354188, "tail": 354224, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:TnDhklT0a/+JgarNn:xI0y+Ca5n"}, "ea": {"0": [354188, 354224]}, "attr": {"0": {"insts": 10, "insts_list": ["mflr", "stwu", "stw", "li", "bl", "lwz", "addi", "mtlr", "blr", "mflr"], "calls": 1, "arithmetic": 1, "ret": 1}}}}

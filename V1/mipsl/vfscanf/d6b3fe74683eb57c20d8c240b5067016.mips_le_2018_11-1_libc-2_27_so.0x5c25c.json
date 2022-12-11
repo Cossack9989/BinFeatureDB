@@ -1,0 +1,1 @@
+{"hash": "3:yq3PC6d/:Z3PC2/", "head": 377436, "tail": 377460, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:yq3PC6d/:Z3PC2/"}, "ea": {"0": [377436, 377460]}, "attr": {"0": {"consts": [0, 0], "symbol": ["__GI__IO_vfscanf"], "calls": 1, "insts": 6, "insts_list": ["li", "addu", "la", "b", "move", ""], "arithmetic": 1, "flags-jumps": 1}}}}

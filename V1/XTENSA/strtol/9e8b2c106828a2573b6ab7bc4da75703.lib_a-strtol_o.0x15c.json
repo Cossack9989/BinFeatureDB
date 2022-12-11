@@ -1,0 +1,1 @@
+{"hash": "3:yU:T", "head": 348, "tail": 362, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:yU:T"}, "ea": {"0": [348, 362]}, "attr": {"0": {"insts": 7, "insts_list": ["l32r", "movi", "mov", "s32i", "s32i", "j", "retw"], "flags-jumps": 1, "ret": 1}}}}

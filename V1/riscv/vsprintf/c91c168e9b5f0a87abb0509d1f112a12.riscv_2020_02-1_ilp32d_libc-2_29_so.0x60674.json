@@ -1,0 +1,1 @@
+{"hash": "3:s+clHwKB:scKB", "head": 394868, "tail": 394888, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:s+clHwKB:scKB"}, "ea": {"0": [394868, 394888]}, "attr": {"0": {"insts": 6, "insts_list": ["mv", "li", "mv", "li", "j", "addi"], "flags-jumps": 1, "arithmetic": 1}}}}

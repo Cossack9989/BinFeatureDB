@@ -1,0 +1,1 @@
+{"hash": "3:L4:k", "head": 118912, "tail": 118918, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:L4:k"}, "ea": {"0": [118912, 118918]}, "attr": {"0": {"consts": [], "symbol": ["memset"], "calls": 1, "insts": 2, "insts_list": ["jmp", "push"], "flags-jumps": 1}}}}

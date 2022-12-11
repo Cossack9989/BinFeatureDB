@@ -1,0 +1,1 @@
+{"hash": "3:Wan:Wa", "head": 387272, "tail": 387278, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:Wan:Wa"}, "ea": {"0": [387272, 387278]}, "attr": {"0": {"consts": [4], "symbol": ["j_memmove"], "calls": 1, "insts": 3, "insts_list": ["LSLS", "B.W", ""]}}}}

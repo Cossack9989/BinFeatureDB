@@ -1,0 +1,1 @@
+{"hash": "3:FnuS4z:VuS+", "head": 80608, "tail": 80624, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:FnuS4z:VuS+"}, "ea": {"0": [80608, 80624]}, "attr": {"0": {"consts": [], "symbol": ["stpncpy"], "calls": 1, "insts": 5, "insts_list": ["ADRP", "LDR", "ADD", "BR", "ADRP"], "arithmetic": 1}}}}

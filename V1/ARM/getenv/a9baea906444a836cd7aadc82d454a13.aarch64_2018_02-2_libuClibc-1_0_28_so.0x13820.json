@@ -1,0 +1,1 @@
+{"hash": "3:Fvol:Vol", "head": 79904, "tail": 79920, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:Fvol:Vol"}, "ea": {"0": [79904, 79920]}, "attr": {"0": {"consts": [], "symbol": ["getenv"], "calls": 1, "insts": 5, "insts_list": ["ADRP", "LDR", "ADD", "BR", "ADRP"], "arithmetic": 1}}}}

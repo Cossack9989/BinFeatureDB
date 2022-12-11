@@ -1,0 +1,1 @@
+{"hash": "3:F3/hn:z", "head": 363612, "tail": 363620, "hcfg": {}, "acfg": {"cfg": {"0": ["1"]}, "hash": {"0": "3:F3/hn:z"}, "ea": {"0": [363612, 363620]}, "attr": {"0": {"insts": 3, "insts_list": ["li", "b", "stwu"], "flags-jumps": 1}}}}

@@ -1,0 +1,1 @@
+{"hash": "3:acRjjbYPdC:aejnY8", "head": 349460, "tail": 349486, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:acRjjbYPdC:aejnY8"}, "ea": {"0": [349460, 349486]}, "attr": {"0": {"consts": [1], "symbol": ["strlen_1"], "calls": 2, "insts": 11, "insts_list": ["PUSH", "MOV", "MOV", "MOV", "BLX", "MOV", "ADDS", "MOV", "POP.W", "B.W", ""], "arithmetic": 5}}}}

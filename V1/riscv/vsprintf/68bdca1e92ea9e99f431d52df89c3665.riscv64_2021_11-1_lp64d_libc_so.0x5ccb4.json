@@ -1,0 +1,1 @@
+{"hash": "3:tgSgQn:Vb", "head": 380084, "tail": 380104, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:tgSgQn:Vb"}, "ea": {"0": [380084, 380104]}, "attr": {"0": {"insts": 6, "insts_list": ["mv", "mv", "lui", "not", "j", "addi"], "flags-jumps": 1, "arithmetic": 1}}}}

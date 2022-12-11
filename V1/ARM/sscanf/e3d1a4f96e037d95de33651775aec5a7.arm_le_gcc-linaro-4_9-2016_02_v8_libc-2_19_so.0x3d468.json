@@ -1,0 +1,1 @@
+{"hash": "3:FE4TPJFn:hb/", "head": 250984, "tail": 251012, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:FE4TPJFn:hb/"}, "ea": {"0": [250984, 251012]}, "attr": {"0": {"consts": [], "symbol": ["_IO_vsscanf"], "calls": 1, "insts": 12, "insts_list": ["PUSH", "PUSH", "SUB", "ADD", "LDR.W", "STR", "BL", "ADD", "POP.W", "ADD", "BX", "PUSH"], "arithmetic": 4, "ret": 1}}}}

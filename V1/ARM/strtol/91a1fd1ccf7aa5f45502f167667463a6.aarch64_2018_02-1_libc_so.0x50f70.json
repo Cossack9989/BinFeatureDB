@@ -1,0 +1,1 @@
+{"hash": "3:W5:W5", "head": 331632, "tail": 331640, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:W5:W5"}, "ea": {"0": [331632, 331640]}, "attr": {"0": {"consts": [9223372036854775808, 9223372036854775808], "symbol": ["strtox_0"], "calls": 1, "insts": 3, "insts_list": ["MOV", "B", "B"], "arithmetic": 1, "flags-jumps": 2}}}}

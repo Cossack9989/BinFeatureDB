@@ -1,0 +1,1 @@
+{"hash": "3:OWdn:Ld", "head": 377892, "tail": 377900, "hcfg": {}, "acfg": {"cfg": {"0": ["1"]}, "hash": {"0": "3:OWdn:Ld"}, "ea": {"0": [377892, 377900]}, "attr": {"0": {"insts": 3, "insts_list": ["addis", "addi", "li"], "arithmetic": 2}}}}

@@ -1,0 +1,1 @@
+{"hash": "3:Pl+1/23lksrn:dxVksr", "head": 420376, "tail": 420416, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:Pl+1/23lksrn:dxVksr"}, "ea": {"0": [420376, 420416]}, "attr": {"0": {"insts": 11, "insts_list": ["mflr", "li", "std", "stdu", "bl", "nop", "addi", "ld", "mtlr", "blr", ""], "calls": 1, "arithmetic": 1, "ret": 1}}}}

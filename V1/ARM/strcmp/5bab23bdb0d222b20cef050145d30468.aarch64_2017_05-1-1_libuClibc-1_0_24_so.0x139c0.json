@@ -1,0 +1,1 @@
+{"hash": "3:FPukFY:tuk+", "head": 80320, "tail": 80336, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:FPukFY:tuk+"}, "ea": {"0": [80320, 80336]}, "attr": {"0": {"consts": [], "symbol": ["strcmp"], "calls": 1, "insts": 5, "insts_list": ["ADRP", "LDR", "ADD", "BR", "ADRP"], "arithmetic": 1}}}}

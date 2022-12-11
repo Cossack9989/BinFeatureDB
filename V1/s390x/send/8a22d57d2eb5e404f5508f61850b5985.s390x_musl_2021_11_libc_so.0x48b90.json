@@ -1,0 +1,1 @@
+{"hash": "3:tbda9C81lG7Xlon:tbQ8Xlon", "head": 297872, "tail": 297916, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:tbda9C81lG7Xlon:tbQ8Xlon"}, "ea": {"0": [297872, 297916]}, "attr": {"0": {"insts": 10, "insts_list": ["stmg", "aghi", "lghi", "lghi", "stg", "brasl", "lg", "lmg", "br", ""], "arithmetic": 1, "calls": 1, "ret": 1}}}}

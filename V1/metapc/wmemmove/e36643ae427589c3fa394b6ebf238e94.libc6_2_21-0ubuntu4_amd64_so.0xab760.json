@@ -1,0 +1,1 @@
+{"hash": "3:AnMik:AI", "head": 702304, "tail": 702313, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:AnMik:AI"}, "ea": {"0": [702304, 702313]}, "attr": {"0": {"consts": [4], "symbol": [], "calls": 1, "insts": 3, "insts_list": ["shl", "jmp", ""], "shift": 1, "flags-jumps": 1}}}}

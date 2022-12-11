@@ -1,0 +1,1 @@
+{"hash": "3:RuTdef:R4du", "head": 185100, "tail": 185124, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:RuTdef:R4du"}, "ea": {"0": [185100, 185124]}, "attr": {"0": {"consts": [], "symbol": ["strtol"], "calls": 1, "insts": 7, "insts_list": ["PUSH", "MOV", "MOV", "BL", "POP", "BX", "PUSH"], "arithmetic": 2, "ret": 2}}}}

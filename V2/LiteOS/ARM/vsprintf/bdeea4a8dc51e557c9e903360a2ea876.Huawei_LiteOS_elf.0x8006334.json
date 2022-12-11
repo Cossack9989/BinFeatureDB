@@ -1,0 +1,1 @@
+{"hash": "3:g:g", "head": 134243124, "tail": 134243136, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:g:g"}, "ea": {"0": [134243124, 134243136]}, "attr": {"0": {"consts": [2147483647, 2147483647], "symbol": ["vsnprintf"], "calls": 1, "insts": 5, "insts_list": ["MOV", "MOV", "MOV", "B.W", "PUSH.W"], "arithmetic": 3}}}}

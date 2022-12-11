@@ -1,0 +1,1 @@
+{"hash": "3:H9HXISeZTi:H9HYSMi", "head": 379068, "tail": 379090, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:H9HXISeZTi:H9HYSMi"}, "ea": {"0": [379068, 379090]}, "attr": {"0": {"consts": [], "symbol": ["_vsprintf_r"], "calls": 1, "insts": 11, "insts_list": ["PUSH", "MOVS", "MOVS", "MOVS", "LDR", "LDR", "BL", "POP", "POP", "BX", ""], "ret": 3}}}}

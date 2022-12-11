@@ -1,0 +1,1 @@
+{"hash": "3:18PMass/n:6PMass/n", "head": 238344, "tail": 238364, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:18PMass/n:6PMass/n"}, "ea": {"0": [238344, 238364]}, "attr": {"0": {"insts": 6, "insts_list": ["mov", "mov", "mov", "ba", "nop", ""], "flags-jumps": 1}}}}

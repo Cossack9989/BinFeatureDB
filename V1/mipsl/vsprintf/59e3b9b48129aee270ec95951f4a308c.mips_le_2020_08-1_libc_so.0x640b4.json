@@ -1,0 +1,1 @@
+{"hash": "3:4rm7wl3ucn:o5", "head": 409780, "tail": 409816, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:4rm7wl3ucn:o5"}, "ea": {"0": [409780, 409816]}, "attr": {"0": {"consts": [2147483647, 2147483647], "symbol": ["vsnprintf"], "calls": 1, "insts": 9, "insts_list": ["li", "addu", "move", "la", "move", "lui", "b", "li", "li"], "arithmetic": 1, "flags-jumps": 1}}}}

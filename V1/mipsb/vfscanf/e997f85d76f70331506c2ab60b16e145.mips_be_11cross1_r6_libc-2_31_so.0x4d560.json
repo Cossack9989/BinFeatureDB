@@ -1,0 +1,1 @@
+{"hash": "3:CVTYVVA:W5", "head": 316768, "tail": 316792, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:CVTYVVA:W5"}, "ea": {"0": [316768, 316792]}, "attr": {"0": {"consts": [], "symbol": [], "calls": 0, "insts": 6, "insts_list": ["li", "addu", "la", "b", "move", ""], "arithmetic": 1, "flags-jumps": 1}}}}

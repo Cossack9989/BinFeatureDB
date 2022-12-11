@@ -1,0 +1,1 @@
+{"hash": "3:dVBktswFSfn:dVSiVfn", "head": 389480, "tail": 389516, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:dVBktswFSfn:dVSiVfn"}, "ea": {"0": [389480, 389516]}, "attr": {"0": {"insts": 10, "insts_list": ["stwu", "mflr", "li", "stw", "bl", "lwz", "addi", "mtlr", "blr", "mfcr"], "calls": 1, "arithmetic": 1, "ret": 1}}}}

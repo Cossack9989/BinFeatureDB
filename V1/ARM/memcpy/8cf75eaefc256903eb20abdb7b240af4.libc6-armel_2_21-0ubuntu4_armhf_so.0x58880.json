@@ -1,0 +1,1 @@
+{"hash": "3:WA46663KEn:W50fn", "head": 362624, "tail": 362652, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:WA46663KEn:W50fn"}, "ea": {"0": [362624, 362652]}, "attr": {"0": {"consts": [64, 0, 4096, 0, 90663], "symbol": [], "calls": 0, "insts": 8, "insts_list": ["LDR", "TST", "LDRNE", "TST", "LDRNE", "ADD", "BX", ""], "logic": 2, "arithmetic": 1, "ret": 1}}}}

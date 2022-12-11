@@ -1,0 +1,1 @@
+{"hash": "3:ca/2N:ca/q", "head": 276752, "tail": 276764, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:ca/2N:ca/q"}, "ea": {"0": [276752, 276764]}, "attr": {"0": {"insts": 4, "insts_list": ["mr", "li", "b", ""], "flags-jumps": 1}}}}

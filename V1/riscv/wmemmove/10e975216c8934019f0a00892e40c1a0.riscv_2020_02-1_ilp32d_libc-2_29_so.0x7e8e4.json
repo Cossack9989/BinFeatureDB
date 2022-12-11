@@ -1,0 +1,1 @@
+{"hash": "3:uK13n:uKpn", "head": 518372, "tail": 518380, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:uK13n:uKpn"}, "ea": {"0": [518372, 518380]}, "attr": {"0": {"insts": 3, "insts_list": ["slli", "j", "li"], "shift": 1, "flags-jumps": 1}}}}

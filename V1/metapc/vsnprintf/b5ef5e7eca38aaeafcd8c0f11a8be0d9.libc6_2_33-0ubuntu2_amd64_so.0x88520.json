@@ -1,0 +1,1 @@
+{"hash": "3:a:a", "head": 558368, "tail": 558380, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:a:a"}, "ea": {"0": [558368, 558380]}, "attr": {"0": {"consts": [0, 0], "symbol": ["__vsnprintf_internal"], "calls": 1, "insts": 4, "insts_list": ["endbr64", "xor", "jmp", ""], "logic": 1, "flags-jumps": 1}}}}

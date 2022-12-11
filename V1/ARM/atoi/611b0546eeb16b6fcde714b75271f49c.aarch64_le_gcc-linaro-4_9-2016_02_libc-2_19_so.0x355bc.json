@@ -1,0 +1,1 @@
+{"hash": "3:zHktsq3kn:rktsqI", "head": 218556, "tail": 218584, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:zHktsq3kn:rktsqI"}, "ea": {"0": [218556, 218584]}, "attr": {"0": {"consts": [10, 0, 0, 10], "symbol": ["__GI_strtol"], "calls": 1, "insts": 8, "insts_list": ["STP", "MOV", "MOV", "MOV", "BL", "LDP", "RET", "MOV"], "arithmetic": 4}}}}

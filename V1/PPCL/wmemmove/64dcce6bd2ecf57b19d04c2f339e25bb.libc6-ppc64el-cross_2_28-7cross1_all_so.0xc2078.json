@@ -1,0 +1,1 @@
+{"hash": "3:0VCkfEOsrn:04kfEOsr", "head": 794744, "tail": 794784, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:0VCkfEOsrn:04kfEOsr"}, "ea": {"0": [794744, 794784]}, "attr": {"0": {"insts": 11, "insts_list": ["mflr", "sldi", "std", "stdu", "bl", "ld", "addi", "ld", "mtlr", "blr", ""], "calls": 1, "arithmetic": 1, "ret": 1}}}}

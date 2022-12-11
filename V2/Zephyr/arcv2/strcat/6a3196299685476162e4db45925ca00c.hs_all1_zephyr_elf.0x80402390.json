@@ -1,0 +1,1 @@
+{"hash": "3:RcKq8AEl1:Lq8hn", "head": 2151687056, "tail": 2151687078, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:RcKq8AEl1:Lq8hn"}, "ea": {"0": [2151687056, 2151687078]}, "attr": {"0": {"insts": 10, "insts_list": ["enter_s", "mov_s", "mov_s", "bl", "mov_s", "add_s", "bl", "mov_s", "leave_s", ""], "calls": 2, "arithmetic": 1, "ret": 1}}}}

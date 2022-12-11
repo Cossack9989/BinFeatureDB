@@ -1,0 +1,1 @@
+{"hash": "3:RejLn6z:YjTY", "head": 94000, "tail": 94016, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:RejLn6z:YjTY"}, "ea": {"0": [94000, 94016]}, "attr": {"0": {"consts": [], "symbol": ["strncmp"], "calls": 1, "insts": 5, "insts_list": ["ADRP", "LDR", "ADD", "BR", "ADRP"], "arithmetic": 1}}}}

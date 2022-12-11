@@ -1,0 +1,1 @@
+{"hash": "3:zFLSAqi:zJqi", "head": 374752, "tail": 374788, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:zFLSAqi:zJqi"}, "ea": {"0": [374752, 374788]}, "attr": {"0": {"consts": [2147483647, 2147483647], "symbol": ["vsnprintf"], "calls": 1, "insts": 9, "insts_list": ["li", "addu", "move", "la", "move", "lui", "b", "li", "li"], "arithmetic": 1, "flags-jumps": 1}}}}

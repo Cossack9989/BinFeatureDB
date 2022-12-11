@@ -1,0 +1,1 @@
+{"hash": "3:6llFMtdP1pb:Mf4P1x", "head": 316548, "tail": 316588, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:6llFMtdP1pb:Mf4P1x"}, "ea": {"0": [316548, 316588]}, "attr": {"0": {"consts": [0, 0], "symbol": ["memchr"], "calls": 1, "insts": 11, "insts_list": ["PUSH", "MOV", "MOV", "MOV", "MOV", "BL", "CMP", "SUBNE", "MOV", "POP", "PUSH"], "arithmetic": 5, "ret": 1}}}}

@@ -1,0 +1,1 @@
+{"hash": "3:ZdR1Vn/TBqIHFPn:jR1DFPn", "head": 277374, "tail": 277402, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:ZdR1Vn/TBqIHFPn:jR1DFPn"}, "ea": {"0": [277374, 277402]}, "attr": {"0": {"insts": 14, "insts_list": ["addi", "sd", "addi", "sd", "sd", "sd", "sd", "sd", "sd", "jal", "ld", "addi", "ret", "addi"], "arithmetic": 4, "calls": 1, "ret": 1}}}}

@@ -1,0 +1,1 @@
+{"hash": "3:6s/Q7kl/n:6jg/n", "head": 544000, "tail": 544016, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:6s/Q7kl/n:6jg/n"}, "ea": {"0": [544000, 544016]}, "attr": {"0": {"insts": 5, "insts_list": ["sll", "mov", "ba", "nop", "nop"], "shift": 1, "flags-jumps": 1}}}}

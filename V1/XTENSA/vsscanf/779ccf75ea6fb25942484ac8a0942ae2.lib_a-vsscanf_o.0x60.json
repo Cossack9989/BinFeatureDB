@@ -1,0 +1,1 @@
+{"hash": "3:YkeKhIh7A/n:YkeKehE/n", "head": 96, "tail": 117, "hcfg": {}, "acfg": {"cfg": {"0": ["1"]}, "hash": {"0": "3:YkeKhIh7A/n:YkeKehE/n"}, "ea": {"0": [96, 117]}, "attr": {"0": {"insts": 10, "insts_list": ["entry", "l32r", "mov", "l32i", "mov", "mov", "mov", "mov", "call8", "mov"], "calls": 1}}}}

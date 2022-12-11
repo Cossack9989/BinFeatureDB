@@ -1,0 +1,1 @@
+{"hash": "3:Illl5Ql:IlXe", "head": 488736, "tail": 488760, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:Illl5Ql:IlXe"}, "ea": {"0": [488736, 488760]}, "attr": {"0": {"insts": 7, "insts_list": ["lui", "daddu", "daddiu", "ld", "b", "move", ""], "flags-jumps": 1}}}}

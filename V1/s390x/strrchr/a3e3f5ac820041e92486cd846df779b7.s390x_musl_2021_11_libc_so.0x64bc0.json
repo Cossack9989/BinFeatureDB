@@ -1,0 +1,1 @@
+{"hash": "3:lfbdOGaRbmch+kl/hC:Nbptcf/hC", "head": 412608, "tail": 412660, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:lfbdOGaRbmch+kl/hC:Nbptcf/hC"}, "ea": {"0": [412608, 412660]}, "attr": {"0": {"insts": 12, "insts_list": ["stmg", "aghi", "lgr", "lgr", "brasl", "lgr", "lgr", "lgr", "aghi", "lmg", "jg", ""], "arithmetic": 2, "calls": 1}}}}

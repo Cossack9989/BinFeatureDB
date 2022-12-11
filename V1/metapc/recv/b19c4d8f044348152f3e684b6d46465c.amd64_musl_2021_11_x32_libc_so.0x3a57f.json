@@ -1,0 +1,1 @@
+{"hash": "3:RGM:wM", "head": 238975, "tail": 238986, "hcfg": {}, "acfg": {"cfg": {"0": ["1"]}, "hash": {"0": "3:RGM:wM"}, "ea": {"0": [238975, 238986]}, "attr": {"0": {"consts": [0, 0, 0, 0], "symbol": ["recvfrom"], "calls": 1, "insts": 4, "insts_list": ["xor", "xor", "jmp", "sub"], "logic": 2, "flags-jumps": 1, "arithmetic": 1}}}}

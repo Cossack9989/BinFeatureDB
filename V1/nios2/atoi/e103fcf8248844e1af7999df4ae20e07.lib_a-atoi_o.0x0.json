@@ -1,0 +1,1 @@
+{"hash": "3:Y8M:Y8M", "head": 0, "tail": 12, "hcfg": {}, "acfg": {"cfg": {"0": ["0"]}, "hash": {"0": "3:Y8M:Y8M"}, "ea": {"0": [0, 12]}, "attr": {"0": {"insts": 4, "insts_list": ["movi", "mov", "jmpi", "movi"], "flags-jumps": 1}}}}

@@ -1,0 +1,212 @@
+{
+  "hash": "3:4omMuq4T41s1hHVIZ6Kn:47Mxz2CZ6K",
+  "head": 0,
+  "tail": 59,
+  "hcfg": {},
+  "acfg": {
+    "cfg": {
+      "0": [
+        "2"
+      ],
+      "1": [
+        "2",
+        "5"
+      ],
+      "2": [
+        "1",
+        "3"
+      ],
+      "3": [
+        "8"
+      ],
+      "4": [
+        "6"
+      ],
+      "5": [
+        "6"
+      ],
+      "6": [
+        "4",
+        "7"
+      ],
+      "7": [
+        "8"
+      ],
+      "8": [
+        "9",
+        "10"
+      ],
+      "9": [
+        "10"
+      ],
+      "10": []
+    },
+    "hash": {
+      "0": "3:4oml:47l",
+      "1": "3:I4Tn:I0",
+      "2": "3:QNn:i",
+      "3": "3:Shln:Sl",
+      "4": "3:m6:m6",
+      "5": "3:Q:Q",
+      "6": "3:SV:SV",
+      "7": "3:w:w",
+      "8": "3:gnn:gn",
+      "9": "3:R:R",
+      "10": "3:Y:Y"
+    },
+    "ea": {
+      "0": [
+        0,
+        8
+      ],
+      "1": [
+        8,
+        22
+      ],
+      "2": [
+        22,
+        27
+      ],
+      "3": [
+        27,
+        32
+      ],
+      "4": [
+        32,
+        42
+      ],
+      "5": [
+        42,
+        44
+      ],
+      "6": [
+        44,
+        47
+      ],
+      "7": [
+        47,
+        51
+      ],
+      "8": [
+        51,
+        55
+      ],
+      "9": [
+        55,
+        57
+      ],
+      "10": [
+        57,
+        59
+      ]
+    },
+    "attr": {
+      "0": {
+        "insts": 4,
+        "insts_list": [
+          "entry",
+          "mov",
+          "j",
+          "l8ui"
+        ],
+        "flags-jumps": 1
+      },
+      "1": {
+        "insts": 7,
+        "insts_list": [
+          "l8ui",
+          "addi",
+          "s8i",
+          "addi",
+          "addi",
+          "beqz",
+          "mov"
+        ],
+        "arithmetic": 3,
+        "flags-jumps": 1
+      },
+      "2": {
+        "insts": 3,
+        "insts_list": [
+          "mov",
+          "bnez",
+          "mov"
+        ],
+        "flags-jumps": 1
+      },
+      "3": {
+        "insts": 3,
+        "insts_list": [
+          "mov",
+          "j",
+          "add"
+        ],
+        "flags-jumps": 1,
+        "arithmetic": 1
+      },
+      "4": {
+        "insts": 5,
+        "insts_list": [
+          "add",
+          "s8i",
+          "addi",
+          "j",
+          "mov"
+        ],
+        "arithmetic": 2,
+        "flags-jumps": 1
+      },
+      "5": {
+        "insts": 2,
+        "insts_list": [
+          "mov",
+          "bne"
+        ],
+        "equaled-jumps": 1
+      },
+      "6": {
+        "insts": 2,
+        "insts_list": [
+          "bne",
+          "mov"
+        ],
+        "equaled-jumps": 1
+      },
+      "7": {
+        "insts": 3,
+        "insts_list": [
+          "mov",
+          "mov",
+          "add"
+        ],
+        "arithmetic": 1
+      },
+      "8": {
+        "insts": 3,
+        "insts_list": [
+          "add",
+          "bnez",
+          "mov"
+        ],
+        "arithmetic": 1,
+        "flags-jumps": 1
+      },
+      "9": {
+        "insts": 2,
+        "insts_list": [
+          "mov",
+          "retw"
+        ],
+        "ret": 1
+      },
+      "10": {
+        "insts": 2,
+        "insts_list": [
+          "retw",
+          ""
+        ],
+        "ret": 1
+      }
+    }
+  }
+}

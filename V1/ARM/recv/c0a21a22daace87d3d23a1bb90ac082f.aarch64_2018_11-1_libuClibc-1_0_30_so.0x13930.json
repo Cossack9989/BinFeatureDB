@@ -1,0 +1,1 @@
+{"hash": "3:lHhk6zn:dh5", "head": 80176, "tail": 80192, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:lHhk6zn:dh5"}, "ea": {"0": [80176, 80192]}, "attr": {"0": {"consts": [], "symbol": ["recv"], "calls": 1, "insts": 5, "insts_list": ["ADRP", "LDR", "ADD", "BR", "ADRP"], "arithmetic": 1}}}}

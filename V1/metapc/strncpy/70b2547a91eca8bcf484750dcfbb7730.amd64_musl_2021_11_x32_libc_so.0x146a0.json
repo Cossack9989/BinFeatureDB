@@ -1,0 +1,1 @@
+{"hash": "3:hsRPFk4n:hsR9Tn", "head": 83616, "tail": 83632, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:hsRPFk4n:hsR9Tn"}, "ea": {"0": [83616, 83632]}, "attr": {"0": {"consts": [], "symbol": ["stpncpy"], "calls": 1, "insts": 7, "insts_list": ["push", "mov", "call", "mov", "pop", "retn", "push"], "ret": 1}}}}

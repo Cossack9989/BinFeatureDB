@@ -1,0 +1,1 @@
+{"hash": "3:rc:rc", "head": 356752, "tail": 356759, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:rc:rc"}, "ea": {"0": [356752, 356759]}, "attr": {"0": {"consts": [0, 0], "symbol": [], "calls": 1, "insts": 3, "insts_list": ["xor", "jmp", ""], "logic": 1, "flags-jumps": 1}}}}

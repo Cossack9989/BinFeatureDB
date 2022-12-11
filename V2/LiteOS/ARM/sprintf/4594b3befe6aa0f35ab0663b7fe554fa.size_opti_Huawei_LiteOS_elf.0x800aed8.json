@@ -1,0 +1,1 @@
+{"hash": "3:F4tkZu+n:vu+", "head": 134262488, "tail": 134262514, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:F4tkZu+n:vu+"}, "ea": {"0": [134262488, 134262514]}, "attr": {"0": {"consts": [], "symbol": ["vsprintf"], "calls": 1, "insts": 11, "insts_list": ["PUSH", "PUSH", "ADD", "LDR.W", "STR", "BL", "ADD", "POP.W", "ADD", "BX", "PUSH"], "arithmetic": 3, "ret": 1}}}}

@@ -1,0 +1,1 @@
+{"hash": "3:lO5AKCpb16NmFBn:lO56+0FB", "head": 20, "tail": 60, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:lO5AKCpb16NmFBn:lO56+0FB"}, "ea": {"0": [20, 60]}, "attr": {"0": {"consts": [], "symbol": ["_findenv_r"], "calls": 1, "insts": 10, "insts_list": ["addiu", "move", "lw", "sw", "jal", "addiu", "lw", "nop", "jr", "addiu"], "arithmetic": 3, "flags-jumps": 1}}}}

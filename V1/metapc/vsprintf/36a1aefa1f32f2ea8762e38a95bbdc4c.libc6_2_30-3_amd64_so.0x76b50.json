@@ -1,0 +1,1 @@
+{"hash": "3:01tAT+a:gAKa", "head": 486224, "tail": 486245, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:01tAT+a:gAKa"}, "ea": {"0": [486224, 486245]}, "attr": {"0": {"consts": [0, 18446744073709551615, 18446744073709551615, 0], "symbol": [], "calls": 1, "insts": 6, "insts_list": ["mov", "xor", "mov", "mov", "jmp", ""], "logic": 1, "flags-jumps": 1}}}}

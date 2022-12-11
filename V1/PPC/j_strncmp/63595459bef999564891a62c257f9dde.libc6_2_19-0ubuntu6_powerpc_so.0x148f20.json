@@ -1,0 +1,1 @@
+{"hash": "3:SjYn:SjYn", "head": 1347360, "tail": 1347372, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:SjYn:SjYn"}, "ea": {"0": [1347360, 1347372]}, "attr": {"0": {"insts": 4, "insts_list": ["lwz", "mtctr", "bctr", ""]}}}}

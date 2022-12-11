@@ -1,0 +1,1 @@
+{"hash": "3:RHPD+un:BP6u", "head": 382844, "tail": 382856, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:RHPD+un:BP6u"}, "ea": {"0": [382844, 382856]}, "attr": {"0": {"insts": 4, "insts_list": ["li", "clrrdi", "b", ""], "flags-jumps": 1}}}}

@@ -1,0 +1,1 @@
+{"hash": "3:Uay:U5", "head": 331608, "tail": 331616, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:Uay:U5"}, "ea": {"0": [331608, 331616]}, "attr": {"0": {"consts": [18446744073709551615, 18446744073709551615], "symbol": ["strtox_0"], "calls": 1, "insts": 3, "insts_list": ["MOV", "B", "MOV"], "arithmetic": 2, "flags-jumps": 1}}}}

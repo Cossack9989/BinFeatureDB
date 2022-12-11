@@ -1,0 +1,1 @@
+{"hash": "3:TVllPQn6B:ben6B", "head": 16, "tail": 44, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:TVllPQn6B:ben6B"}, "ea": {"0": [16, 44]}, "attr": {"0": {"insts": 9, "insts_list": ["push_s", "sub_s", "mov_s", "ld", "bl.d", "mov_s", "ld.a", "j_s.d", "add_s"], "arithmetic": 2, "calls": 1}}}}

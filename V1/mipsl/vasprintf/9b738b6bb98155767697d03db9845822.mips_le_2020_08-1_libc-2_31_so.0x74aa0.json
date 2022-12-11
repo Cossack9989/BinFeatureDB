@@ -1,0 +1,1 @@
+{"hash": "3:q8ml0G:q8m6G", "head": 477856, "tail": 477880, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:q8ml0G:q8m6G"}, "ea": {"0": [477856, 477880]}, "attr": {"0": {"consts": [0, 0], "symbol": ["__vasprintf_internal"], "calls": 1, "insts": 6, "insts_list": ["li", "addu", "la", "b", "move", ""], "arithmetic": 1, "flags-jumps": 1}}}}

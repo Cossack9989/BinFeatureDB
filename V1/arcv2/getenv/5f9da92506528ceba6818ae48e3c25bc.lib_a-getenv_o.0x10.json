@@ -1,0 +1,1 @@
+{"hash": "3:4lVllitOhx6B:oPE26B", "head": 16, "tail": 44, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:4lVllitOhx6B:oPE26B"}, "ea": {"0": [16, 44]}, "attr": {"0": {"insts": 9, "insts_list": ["mov_s", "ld", "push_s", "sub_s", "bl.d", "mov_s", "ld.a", "j_s.d", "add_s"], "arithmetic": 2, "calls": 1}}}}

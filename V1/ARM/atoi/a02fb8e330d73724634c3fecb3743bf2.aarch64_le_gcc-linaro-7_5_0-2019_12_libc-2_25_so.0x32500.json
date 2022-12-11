@@ -1,0 +1,1 @@
+{"hash": "3:zHktsq9ieY:rktsqk", "head": 206080, "tail": 206108, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:zHktsq9ieY:rktsqk"}, "ea": {"0": [206080, 206108]}, "attr": {"0": {"consts": [10, 0, 0, 10], "symbol": ["__strtol"], "calls": 1, "insts": 8, "insts_list": ["STP", "MOV", "MOV", "MOV", "BL", "LDP", "RET", ""], "arithmetic": 3}}}}

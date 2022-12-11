@@ -1,0 +1,1 @@
+{"hash": "3:Ys+usft57An:YspszAn", "head": 96, "tail": 125, "hcfg": {}, "acfg": {"cfg": {"0": ["1"]}, "hash": {"0": "3:Ys+usft57An:YspszAn"}, "ea": {"0": [96, 125]}, "attr": {"0": {"insts": 13, "insts_list": ["entry", "s32i", "s32i", "s32i", "l32r", "callx8", "l32i", "l32i", "l32i", "mov", "mov", "call8", "mov"], "calls": 2}}}}

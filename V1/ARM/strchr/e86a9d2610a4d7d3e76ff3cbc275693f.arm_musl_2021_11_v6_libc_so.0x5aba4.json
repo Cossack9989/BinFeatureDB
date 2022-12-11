@@ -1,0 +1,1 @@
+{"hash": "3:aAL8j:xL8j", "head": 371620, "tail": 371652, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:aAL8j:xL8j"}, "ea": {"0": [371620, 371652]}, "attr": {"0": {"consts": [0], "symbol": ["strchrnul"], "calls": 1, "insts": 9, "insts_list": ["PUSH", "MOV", "BL", "LDRB", "AND", "CMP", "MOVNE", "POP", "ANDS"], "arithmetic": 1, "logic": 1, "ret": 1}}}}

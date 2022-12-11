@@ -1,0 +1,1 @@
+{"hash": "3:ym2hlNmZpqwxs:ymglN5d", "head": 249476, "tail": 249516, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:ym2hlNmZpqwxs:ymglN5d"}, "ea": {"0": [249476, 249516]}, "attr": {"0": {"consts": [0, 0], "symbol": [], "calls": 1, "insts": 10, "insts_list": ["li", "addu", "la", "rdhwr", "la", "move", "addu", "b", "lw", ""], "arithmetic": 2, "flags-jumps": 1}}}}

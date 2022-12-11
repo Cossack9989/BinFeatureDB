@@ -1,0 +1,1 @@
+{"hash": "3:L5cQ3iBkknl:L5cQ0", "head": 298400, "tail": 298422, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:L5cQ3iBkknl:L5cQ0"}, "ea": {"0": [298400, 298422]}, "attr": {"0": {"insts": 11, "insts_list": ["addi", "sd", "sd", "mv", "jal", "ld", "mv", "ld", "addi", "ret", "addi"], "arithmetic": 3, "calls": 1, "ret": 1}}}}

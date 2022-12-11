@@ -1,0 +1,1 @@
+{"hash": "3:P21lk/O3lksrn:CbVksr", "head": 268092, "tail": 268136, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:P21lk/O3lksrn:CbVksr"}, "ea": {"0": [268092, 268136]}, "attr": {"0": {"insts": 12, "insts_list": ["mflr", "li", "li", "std", "stdu", "bl", "nop", "addi", "ld", "mtlr", "blr", ""], "calls": 1, "arithmetic": 1, "ret": 1}}}}

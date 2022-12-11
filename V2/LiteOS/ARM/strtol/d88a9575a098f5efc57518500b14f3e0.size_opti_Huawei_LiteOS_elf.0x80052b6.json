@@ -1,0 +1,1 @@
+{"hash": "3:S7jpa+/:e/", "head": 134238902, "tail": 134238922, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:S7jpa+/:e/"}, "ea": {"0": [134238902, 134238922]}, "attr": {"0": {"consts": [2147483648, 2147483648], "symbol": ["strtox"], "calls": 1, "insts": 8, "insts_list": ["PUSH", "MOV.W", "MOVS", "STRD.W", "BL", "ADD", "POP", ""], "arithmetic": 1, "ret": 1}}}}

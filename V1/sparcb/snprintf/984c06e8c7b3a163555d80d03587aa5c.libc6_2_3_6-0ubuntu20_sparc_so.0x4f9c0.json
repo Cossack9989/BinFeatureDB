@@ -1,0 +1,1 @@
+{"hash": "3:uXt1mql/kmfis:mGeVfF", "head": 326080, "tail": 326124, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:uXt1mql/kmfis:mGeVfF"}, "ea": {"0": [326080, 326124]}, "attr": {"0": {"insts": 12, "insts_list": ["save", "mov", "mov", "st", "mov", "add", "st", "call", "st", "ret", "restore", "ba,a"], "arithmetic": 1, "calls": 1, "ret": 2}}}}

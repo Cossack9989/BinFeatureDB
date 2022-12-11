@@ -1,0 +1,1 @@
+{"hash": "3:r1GGs14lln:xGn4lln", "head": 305696, "tail": 305720, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:r1GGs14lln:xGn4lln"}, "ea": {"0": [305696, 305720]}, "attr": {"0": {"consts": [0, 0], "symbol": [], "calls": 1, "insts": 6, "insts_list": ["li", "addu", "la", "b", "move", ""], "arithmetic": 1, "flags-jumps": 1}}}}

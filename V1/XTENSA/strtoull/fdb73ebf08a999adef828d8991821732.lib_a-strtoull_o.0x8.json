@@ -1,0 +1,1 @@
+{"hash": "3:4EomNznk/FtSU:4BR6U", "head": 8, "tail": 34, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:4EomNznk/FtSU:4BR6U"}, "ea": {"0": [8, 34]}, "attr": {"0": {"insts": 11, "insts_list": ["entry", "l32r", "mov", "l32i", "mov", "mov", "l32r", "callx8", "mov", "mov", "retw"], "calls": 1, "ret": 1}}}}

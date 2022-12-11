@@ -1,0 +1,1 @@
+{"hash": "3:dVlAvs+BWSfn:dVX+B/fn", "head": 680048, "tail": 680108, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:dVlAvs+BWSfn:dVX+B/fn"}, "ea": {"0": [680048, 680108]}, "attr": {"0": {"insts": 16, "insts_list": ["stwu", "mflr", "bcl", "slwi", "stw", "mflr", "addis", "stw", "addi", "bl", "lwz", "lwz", "addi", "mtlr", "blr", ""], "arithmetic": 3, "calls": 1, "ret": 1}}}}

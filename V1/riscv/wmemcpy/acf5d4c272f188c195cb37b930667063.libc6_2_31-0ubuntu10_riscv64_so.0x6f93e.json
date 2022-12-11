@@ -1,0 +1,1 @@
+{"hash": "3:OQOn:OQOn", "head": 457022, "tail": 457028, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:OQOn:OQOn"}, "ea": {"0": [457022, 457028]}, "attr": {"0": {"insts": 3, "insts_list": ["slli", "j", "slli"], "shift": 2, "flags-jumps": 1}}}}

@@ -1,0 +1,1 @@
+{"hash": "3:bfEaKYNn:bfJRn", "head": 314392, "tail": 314412, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:bfEaKYNn:bfJRn"}, "ea": {"0": [314392, 314412]}, "attr": {"0": {"consts": [], "symbol": ["stpncpy"], "calls": 1, "insts": 6, "insts_list": ["PUSH", "MOV", "BL", "MOV", "POP", "PUSH"], "arithmetic": 2, "ret": 1}}}}

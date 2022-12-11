@@ -1,0 +1,1 @@
+{"hash": "3:ploE/5lg:Z5lg", "head": 310528, "tail": 310556, "hcfg": {}, "acfg": {"cfg": {"0": []}, "hash": {"0": "3:ploE/5lg:Z5lg"}, "ea": {"0": [310528, 310556]}, "attr": {"0": {"consts": [], "symbol": ["strtox_0"], "calls": 1, "insts": 8, "insts_list": ["PUSH", "MOV", "MOV", "STRD", "BL", "ADD", "POP", "B"], "arithmetic": 3, "ret": 1, "flags-jumps": 1}}}}
